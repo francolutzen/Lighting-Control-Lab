@@ -28,6 +28,22 @@ These values are transmitted continuously from the controller to the connected f
 
 ---
 
+## What Is a Fixture?
+
+A fixture is any lighting device capable of receiving DMX data.
+
+Examples include:
+
+- LED PAR fixtures
+- Moving heads
+- Scanners
+- Spider effects
+- Strobes
+- Lasers
+- Fog machines
+
+Each fixture contains one or more DMX channels that control its functions.
+
 ## Why DMX512 Exists
 
 Without DMX, each lighting fixture would require its own dedicated control connection.
@@ -84,6 +100,12 @@ Channel 4 → Gobo
 ```
 
 The fixture manufacturer determines what each channel controls.
+
+A DMX channel does not inherently represent a color, movement or effect.
+
+A channel is simply a numbered container capable of holding a value between 0 and 255.
+
+The meaning of that value is determined entirely by the fixture.
 
 ---
 
@@ -293,8 +315,8 @@ Example:
 
 ```text
 Universe 1 = Channels 1–512
-Universe 2 = Channels 513–1024
-Universe 3 = Channels 1025–1536
+Universe 2 = Another set of channels 1–512
+Universe 3 = Another set of channels 1–512
 ```
 
 Most small lighting setups operate entirely within a single universe.
