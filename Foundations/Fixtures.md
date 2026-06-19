@@ -301,6 +301,8 @@ For this reason, understanding the fixture itself is just as important as unders
 
 A lighting designer who understands fixtures gains access to the visual vocabulary needed to create atmospheres, synchronize with music and build immersive lighting experiences.
 
+---
+
 Related Repository Sections
 
 Fixtures/
