@@ -119,7 +119,8 @@ A channel is simply a numbered container capable of holding a value between 0 an
 
 The meaning of that value is determined entirely by the fixture.
 
-### Importance of Fixture Documentation
+
+## Importance of Fixture Documentation
 
 Because DMX channels are defined by the fixture manufacturer, it is essential to know the exact model of every fixture being used.
 
