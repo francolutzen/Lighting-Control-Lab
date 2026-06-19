@@ -300,3 +300,17 @@ The fixture's channel map determines what every DMX value means.
 For this reason, understanding the fixture itself is just as important as understanding DMX.
 
 A lighting designer who understands fixtures gains access to the visual vocabulary needed to create atmospheres, synchronize with music and build immersive lighting experiences.
+
+Related Repository Sections
+
+Fixtures/
+    Individual fixture documentation
+
+Assets/
+    Manuals and manufacturer documentation
+
+Experiments/
+    Fixture testing and discoveries
+
+Atmospheres/
+    Practical applications of fixture capabilities
