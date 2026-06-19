@@ -74,7 +74,7 @@ Controllers simply provide different ways of organizing and controlling them.
 
 This document explains how DMX addresses work, how fixtures occupy channels, how to calculate addresses correctly, and how to avoid channel overlap when building a lighting system.
 
-Physical Connection vs DMX Addressing
+## Physical Connection vs DMX Addressing
 
 The physical order of fixtures in a DMX cable chain does not determine their addresses.
 
