@@ -268,8 +268,17 @@ The fixture's channel map determines whether those numbers represent:
 * Sound Active Modes
 * Any other function defined by the manufacturer
   
-
 ---
+
+DMX Is a One-Way Protocol
+
+Traditional DMX512 sends data from the controller to the fixtures.
+
+The fixtures do not send information back to the controller.
+
+This means the controller continuously transmits instructions while fixtures simply receive and execute them.
+
+DMX communication is therefore considered a one-way communication protocol.
 
 ## DMX Addresses
 
@@ -307,6 +316,10 @@ Channel 8 → White
 
 This prevents channel overlap.
 
+If two fixtures share the same starting address, they will respond identically to the same DMX channels.
+
+This behavior can be useful when multiple fixtures should always operate together.
+
 ---
 
 ## DMX Universe
@@ -323,8 +336,8 @@ Example:
 
 ```text
 Universe 1 = Channels 1–512
-Universe 2 = another independent set of 512 channels
-Universe 3 = another independent set of 512 channels 
+Universe 2 = Channels 1–512 (independent from Universe 1)
+Universe 3 = Channels 1–512 (independent from Universe 1 and Universe 2)
 ```
 
 Most small lighting setups operate entirely within a single universe.
@@ -376,4 +389,4 @@ After understanding DMX512, the next concepts are:
 7. Software Controllers
 8. MIDI Integration
 
-Together, these concepts form the foundation of modern lighting control systems.
+Together, these concepts form the foundation of modern lighting control systems and provide the tools needed to transform technical control into visual experiences and atmospheric design.
