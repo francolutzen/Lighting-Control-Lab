@@ -112,6 +112,12 @@ Channels = 100–108
 
 DMX Terminator
 
+In larger or professional DMX installations, a DMX terminator is often placed at the end of the chain.
+
+A terminator helps reduce signal reflections that may cause communication errors, flickering, or unreliable fixture behavior.
+
+Small setups often operate successfully without a terminator, but its use is considered good practice, especially when using long cable runs or multiple fixtures.
+
 All fixtures receive the same DMX signal.
 
 The signal travels through the entire chain regardless of the fixture addresses.
