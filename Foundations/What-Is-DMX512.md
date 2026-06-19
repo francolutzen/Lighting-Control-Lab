@@ -134,6 +134,111 @@ Produces:
 Yellow
 ```
 
+## DMX Values Do Not Always Represent Intensity
+
+A common misconception is that DMX values always represent intensity.
+
+In reality, a DMX channel only transmits a number between:
+
+```text
+0 - 255
+```
+
+The fixture decides how that number will be interpreted.
+
+### Continuous Parameters
+
+Some channels use DMX values as a gradual control range.
+
+Examples:
+
+```text
+0     = No red
+128   = Medium red
+255   = Full red
+```
+
+or
+
+```text
+0     = Slow movement
+255   = Fast movement
+```
+
+In these cases, the value changes continuously across the entire range.
+
+### Function Selection Channels
+
+Other channels divide the 0–255 range into multiple regions, where each region activates a different function.
+
+Example:
+
+```text
+0–31     = Blackout
+32–63    = Red
+64–95    = Green
+96–127   = Blue
+128–159  = Yellow
+160–191  = Cyan
+192–223  = Magenta
+224–255  = Automatic Program
+```
+
+In this case, the DMX value is not controlling intensity.
+
+Instead, it is selecting different operating modes.
+
+### Pattern Selection
+
+Many effects fixtures use a channel to select patterns.
+
+Example:
+
+```text
+0–15     = Pattern 1
+16–31    = Pattern 2
+32–47    = Pattern 3
+48–63    = Pattern 4
+...
+```
+
+Changing the DMX value changes the pattern being displayed.
+
+### Automatic Programs
+
+Some fixtures reserve portions of a channel for internal programs.
+
+Example:
+
+```text
+0–127    = Manual Control
+128–191  = Auto Program 1
+192–223  = Auto Program 2
+224–255  = Sound Active Mode
+```
+
+The fixture interprets these values as instructions rather than levels.
+
+### Key Idea
+
+DMX itself does not know what a channel controls.
+
+DMX only sends numbers.
+
+The fixture's channel map determines whether those numbers represent:
+
+* Intensity
+* Color
+* Position
+* Speed
+* Rotation
+* Pattern Selection
+* Strobe Effects
+* Automatic Programs
+* Sound Active Modes
+* Any other function defined by the manufacturer
+  
+
 ---
 
 ## DMX Addresses
