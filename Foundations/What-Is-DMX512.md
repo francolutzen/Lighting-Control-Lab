@@ -4,7 +4,7 @@
 
 <img width="1200" height="592" alt="D_649542-MLU32033324836_092019-F" src="https://github.com/user-attachments/assets/a191cbf1-0b46-4f1e-bd02-ce66f1c4da79" />
 
-Example of a basic DMX lighting controller.
+*Example of a basic DMX lighting controller.
 
 DMX512 is the most widely used communication protocol for controlling entertainment lighting equipment.
 
