@@ -119,6 +119,28 @@ A channel is simply a numbered container capable of holding a value between 0 an
 
 The meaning of that value is determined entirely by the fixture.
 
+### Importance of Fixture Documentation
+
+Because DMX channels are defined by the fixture manufacturer, it is essential to know the exact model of every fixture being used.
+
+Two fixtures may use the same number of channels while assigning completely different functions to those channels.
+
+For this reason, the original user manual or DMX channel chart should always be preserved whenever possible.
+
+The fixture manual specifies:
+
+* The DMX channel layout
+* The function of each channel
+* The DMX value ranges assigned to specific functions
+* Available operating modes
+* Addressing procedures
+* Fixture-specific features
+
+Without the manual, it may be difficult or impossible to determine precisely what a fixture will do when receiving specific DMX values.
+
+For lighting programmers and operators, fixture documentation is therefore as important as the fixture itself.
+
+
 ---
 
 ## DMX Values
