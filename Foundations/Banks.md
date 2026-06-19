@@ -279,6 +279,54 @@ The bank structure becomes part of the operator's workflow.
 
 ---
 
+## Banks, Speed and Fade Time
+
+In many DMX192 controllers, the Speed and Fade Time controls are commonly associated with chases.
+
+However, depending on the controller design and playback mode, these controls may also influence how stored scenes are recalled from banks.
+
+For example:
+
+Scene 1 = Red Wash
+
+↓
+
+Scene 2 = Blue Wash
+
+Without fade:
+
+Red
+↓
+Blue
+
+Instant change.
+
+With fade:
+
+Red
+↓
+Purple
+↓
+Blue
+
+Gradual transition.
+
+This behavior depends on the specific controller model and operating mode.
+
+For this reason, operators should always consult the controller manual to understand exactly how Speed and Fade Time affect scene playback.
+
+A useful practical distinction is:
+
+Speed
+=
+How fast playback advances between steps.
+
+Fade Time
+=
+How smoothly one lighting state transitions into another.
+
+Although these controls are often discussed in relation to chases, they can also influence scene-based operation on many DMX192 consoles.
+
 ## Banks in Lighting Software
 
 Modern lighting software often removes the limitations of physical banks.
