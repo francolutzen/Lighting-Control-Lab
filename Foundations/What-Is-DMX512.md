@@ -42,7 +42,15 @@ Examples include:
 - Lasers
 - Fog machines
 
-Each fixture contains one or more DMX channels that control its functions.
+The number of channels used by a fixture depends on its complexity and available features.
+
+For example:
+
+A simple RGB fixture may use 3 channels.
+
+A RGBW fixture may use 4 channels.
+
+A moving head may use 10, 16 or more channels.
 
 ## Why DMX512 Exists
 
@@ -315,13 +323,27 @@ Example:
 
 ```text
 Universe 1 = Channels 1–512
-Universe 2 = Another set of channels 1–512
-Universe 3 = Another set of channels 1–512
+Universe 2 = another independent set of 512 channels
+Universe 3 = another independent set of 512 channels 
 ```
 
 Most small lighting setups operate entirely within a single universe.
 
 ---
+
+Mental Model
+
+A useful way to think about DMX512 is:
+
+The controller continuously sends a table containing 512 values.
+
+Each fixture listens to a specific portion of that table according to its starting address.
+
+DMX itself does not know anything about colors, movement, gobos, strobes, patterns or automatic programs.
+
+DMX only transports numbers.
+
+The fixture gives those numbers meaning.
 
 ## DMX In Lighting Design
 
