@@ -81,6 +81,7 @@ Example:
 
 Bank 1
 
+
 Scene 1
 
 Scene 2
@@ -96,9 +97,11 @@ Scene 6
 Scene 7
 
 Scene 8
+
 
 Bank 2
 
+
 Scene 1
 
 Scene 2
@@ -114,10 +117,13 @@ Scene 6
 Scene 7
 
 Scene 8
+
 
 ...
 
+
 Bank 30
+
 
 Scene 1
 
@@ -134,6 +140,7 @@ Scene 6
 Scene 7
 
 Scene 8
+
 
 This allows the controller to store a large number of lighting looks while using a limited number of physical buttons.
 
