@@ -20,7 +20,7 @@ This often creates the impression that every fixture must start at addresses:
 
 However, this is not a limitation of the DMX512 protocol itself.
 
-It is simply a limitation of how certain hardware consoles are designed.
+It is simply a way certain hardware consoles organize DMX channels for the user.
 
 In reality, DMX512 only provides a universe containing 512 channels.
 
@@ -59,6 +59,8 @@ Uses:
 13–21
 
 This configuration is completely valid in DMX512 and is commonly used in lighting software such as QLC+, MagicQ and other professional control systems.
+
+This allows channels to be used more efficiently, especially when fixtures require fewer than 16 channels.
 
 The purpose of DMX addressing is therefore not to assign fixtures to fixed blocks, but to determine which portion of the 512 available channels each fixture will listen to.
 
