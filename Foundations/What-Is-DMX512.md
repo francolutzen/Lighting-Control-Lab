@@ -28,6 +28,19 @@ These values are transmitted continuously from the controller to the connected f
 
 ---
 
+## Brief History of DMX512
+
+Before DMX512, lighting manufacturers often used proprietary and incompatible control systems.
+
+As a result, connecting equipment from different manufacturers could be difficult and required additional hardware and cabling.
+
+To solve this problem, the United States Institute for Theatre Technology (USITT) introduced the DMX512 standard in 1986.
+
+The protocol was later refined and adopted by industry organizations, becoming the worldwide standard for lighting control used today.
+
+One of the main reasons for DMX512's success is that it allows controllers and fixtures from different manufacturers to communicate using a common language.
+
+
 ## What Is a Fixture?
 
 A fixture is any lighting device capable of receiving DMX data.
