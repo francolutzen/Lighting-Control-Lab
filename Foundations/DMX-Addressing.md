@@ -148,7 +148,7 @@ Address = 200
 
 This configuration works perfectly because physical position and DMX addressing are independent concepts.
 
-# What Is a DMX Address?
+## What Is a DMX Address?
 
 A DMX address is the first channel that a fixture listens to within a DMX universe.
 
@@ -172,7 +172,7 @@ Channel 4
 
 The address itself only identifies the first channel.
 
-# What Is a Channel Footprint?
+## What Is a Channel Footprint?
 
 The channel footprint is the total number of DMX channels required by a fixture.
 
@@ -231,7 +231,7 @@ Without the manual, it is often impossible to know what each DMX value actually 
 
 For this reason, it is highly recommended to keep the original manuals of every fixture used in a lighting system.
 
-Addressing a Single Fixture
+## Addressing a Single Fixture
 
 Example:
 
@@ -313,7 +313,7 @@ Where:
 
 Each fixture occupies a portion of the available DMX space.
 
-# Address Calculation
+## Address Calculation
 
 A common way to calculate the next address is:
 
@@ -321,7 +321,7 @@ Next Address = Current Address + Footprint
 
 Example:
 
-Fixture 1
+## Fixture 1
 
 Address = 1
 
@@ -329,7 +329,7 @@ Footprint = 4
 
 Next Address = 5
 
-Fixture 2
+## Fixture 2
 
 Address = 5
 
@@ -339,7 +339,7 @@ Next Address = 9
 
 This prevents channel overlap.
 
-Channel Overlap
+## Channel Overlap
 
 Channel overlap occurs when two fixtures occupy the same DMX channels.
 
@@ -441,7 +441,7 @@ Remaining channels available:
 
 512 - 17 = 495
 
-Addressing in Lighting Software
+## Addressing in Lighting Software
 
 Programs such as QLC+, MagicQ and other lighting controllers require the software address and the fixture address to match.
 
@@ -455,7 +455,8 @@ If the addresses do not match, the fixture will not respond correctly.
 
 Addressing is therefore one of the first things that should be checked during troubleshooting.
 
-Common Beginner Mistakes
+Common Beginner Mistakes:
+
 Forgetting the Fixture Footprint
 
 A fixture may use more channels than expected.
@@ -482,7 +483,7 @@ This does not mean DMX itself requires fixtures to start at addresses 1, 17, 33 
 
 Those are controller-specific conventions.
 
-Key Idea
+## Key Idea
 
 DMX does not know what a fixture is.
 
