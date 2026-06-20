@@ -82,7 +82,7 @@ A common configuration is:
 
 Example:
 
-Bank 1
+**Bank 1**
 
 
 Scene 1
@@ -102,7 +102,7 @@ Scene 7
 Scene 8
 
 
-Bank 2
+**Bank 2**
 
 
 Scene 1
@@ -125,7 +125,7 @@ Scene 8
 ...
 
 
-Bank 30
+**Bank 30**
 
 
 Scene 1
