@@ -34,6 +34,9 @@ Bank 1
 
 └── Scene 4
 
+<img width="1448" height="1086" alt="BANK UP" src="https://github.com/user-attachments/assets/9a41b4c2-004a-4750-bf6d-f9e6fc96f384" />
+
+
 Each scene contains its own set of DMX values.
 
 The bank simply provides a way to organize and access those scenes.
