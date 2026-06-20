@@ -143,6 +143,7 @@ Scene 7
 
 Scene 8
 
+---
 
 This allows the controller to store a large number of lighting looks while using a limited number of physical buttons.
 
