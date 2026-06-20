@@ -85,6 +85,7 @@ Example:
 **Bank 1**
 
 
+
 Scene 1
 
 Scene 2
@@ -103,6 +104,7 @@ Scene 8
 
 
 **Bank 2**
+
 
 
 Scene 1
@@ -126,6 +128,7 @@ Scene 8
 
 
 **Bank 30**
+
 
 
 Scene 1
