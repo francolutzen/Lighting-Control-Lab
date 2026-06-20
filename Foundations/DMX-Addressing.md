@@ -148,7 +148,7 @@ Address = 200
 
 This configuration works perfectly because physical position and DMX addressing are independent concepts.
 
-## What Is a DMX Address?
+# What Is a DMX Address?
 
 A DMX address is the first channel that a fixture listens to within a DMX universe.
 
@@ -172,7 +172,7 @@ Channel 4
 
 The address itself only identifies the first channel.
 
-## What Is a Channel Footprint?
+# What Is a Channel Footprint?
 
 The channel footprint is the total number of DMX channels required by a fixture.
 
