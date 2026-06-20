@@ -289,19 +289,19 @@ Uses:
 
 Each fixture occupies its own channel range.
 
-Visualizing Channel Allocation
+## Visualizing Channel Allocation
 
 A useful way to visualize addressing is to imagine the DMX universe as a table containing 512 channels.
 
 Example:
 
-1 ------------------------------------------------------ 512
+1 ------------------------------------------------------------------------------------------------- 512
 
 |----PAR----|
 
-         |------LASER------|
+         |----LASER-----|
 
-                           |----SPIDER----|
+                        |----SPIDER----|
 
 Where:
 
@@ -313,7 +313,7 @@ Where:
 
 Each fixture occupies a portion of the available DMX space.
 
-Address Calculation
+## Address Calculation
 
 A common way to calculate the next address is:
 
