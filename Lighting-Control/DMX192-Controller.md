@@ -517,13 +517,94 @@ The chase can now be played back automatically.
 
 ---
 
-# Music Mode
+## Music Mode
 
-Music Mode allows the controller to advance scenes or chase steps according to sound detected by the internal microphone.
+Most DMX192 controllers include a built-in microphone that allows scenes or chase steps to change automatically in response to sound.
 
-This creates basic audio-reactive lighting effects without external software.
+When Music Mode is activated, the controller listens to the surrounding audio environment and advances scenes or chase steps whenever it detects sound peaks.
 
----
+The microphone does not analyze musical notes, melodies or song structure.
+
+Instead, it reacts primarily to changes in sound intensity.
+
+Examples:
+
+* Kick drums
+* Snare hits
+* Bass impacts
+* Loud rhythmic elements
+
+Typical operation:
+
+Sound Peak
+
+↓
+
+Microphone Detection
+
+↓
+
+Controller Trigger
+
+↓
+
+Next Scene or Chase Step
+
+Because of this behavior, Music Mode often works best with music that contains a strong and consistent rhythm.
+
+### Practical Example
+
+Imagine a Chase containing:
+
+* Scene 1 = Red
+* Scene 2 = Blue
+* Scene 3 = Green
+* Scene 4 = White
+
+With Music Mode enabled:
+
+Kick Drum
+
+↓
+
+Scene changes from Red to Blue
+
+Next Kick Drum
+
+↓
+
+Scene changes from Blue to Green
+
+Next Kick Drum
+
+↓
+
+Scene changes from Green to White
+
+The result is a simple audio-reactive lighting effect synchronized to the energy of the music.
+
+### Limitations
+
+The built-in microphone provides a basic form of synchronization and should not be confused with professional audio analysis systems.
+
+Common limitations include:
+
+* Sensitivity to ambient noise.
+* Inconsistent triggering in quiet environments.
+* Reduced accuracy with complex musical material.
+* No beat detection or BPM analysis.
+* No frequency analysis.
+
+### Creative Use
+
+Despite its simplicity, Music Mode can be very effective for:
+
+* Small parties.
+* Home events.
+* Beginner lighting setups.
+* Quick audio-reactive effects without software.
+
+For many users, Music Mode provides an easy introduction to the relationship between music, rhythm and lighting before moving to more advanced software-based control systems.
 
 # Limitations of DMX192 Controllers
 
