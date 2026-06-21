@@ -82,6 +82,8 @@ Scanner 11 → Channels 161-176
 
 Scanner 12 → Channels 177–192
 
+---
+
 Because each Scanner Button controls a dedicated 16-channel block, a DMX192 controller can directly manage up to 12 independent fixture groups.
 
 This does not necessarily mean only 12 physical fixtures.
