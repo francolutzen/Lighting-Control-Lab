@@ -517,7 +517,7 @@ The chase can now be played back automatically.
 
 ---
 
-## Music Mode
+# Music Mode
 
 Most DMX192 controllers include a built-in microphone that allows scenes or chase steps to change automatically in response to sound.
 
