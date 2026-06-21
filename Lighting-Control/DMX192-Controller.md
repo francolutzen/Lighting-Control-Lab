@@ -218,17 +218,47 @@ Press the **MIDI/ADD** button.
 
 The controller is now ready to store the current lighting state.
 
-### Step 5 — Store the Scene
+### Step 5 — Select the Bank and Store the Scene
 
-Press the desired **SCENE BUTTON**.
+Before saving the scene, verify that the correct Bank is selected.
 
-The current DMX values are stored in that scene location.
+A DMX192 controller typically stores:
+
+- 30 Banks
+- 8 Scenes per Bank
+- 240 Scene locations in total
+
+The scene will be stored in the currently selected Bank and Scene Button combination.
 
 Example:
 
-- Scene 1
-- Scene 2
-- Scene 3
+Bank 01 + Scene 1
+
+Bank 01 + Scene 2
+
+Bank 05 + Scene 4
+
+Bank 12 + Scene 8
+
+After confirming the desired Bank, press the **SCENE BUTTON** where the scene should be stored.
+
+The current DMX values are now saved in that location.
+
+### Important
+
+A Scene Button does not uniquely identify a scene.
+
+The same Scene Button can contain different scenes in different Banks.
+
+Example:
+
+Bank 01 → Scene 1 = Red Wash
+
+Bank 02 → Scene 1 = Blue Wash
+
+Bank 03 → Scene 1 = Strobe Effect
+
+Although all three scenes use Scene Button 1, they are stored in different Banks and therefore remain independent.
 
 ### Step 6 — Exit Programming Mode
 
