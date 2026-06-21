@@ -679,7 +679,7 @@ As a result, a Chase is typically a sequence of complete lighting states rather 
 
 In practical use, operators often build Chases from scenes that already contain coordinated colors, movements and effects across all fixtures in the setup.
 
-### Speed and Fade Time
+# Speed and Fade Time
 
 Just like automatic scene playback, Chases can be influenced by:
 
