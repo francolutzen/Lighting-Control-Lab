@@ -500,20 +500,266 @@ Higher Fade Time often produces:
 
 Learning to balance Speed and Fade Time is one of the most important creative skills when working with a DMX192 controller.
 
+# Chases
 
-# Recording a Chase
+A Chase is a programmed sequence of scenes that plays automatically.
 
-A Chase is a sequence of scenes played automatically.
+Unlike a Bank, which simply stores scenes together, a Chase allows scenes from different Banks to be combined into a single playback sequence.
+
+This makes Chases one of the most powerful programming tools available on a DMX192 controller.
+
+### What Can a Chase Contain?
+
+A Chase does not store DMX values directly.
+
+Instead, it stores references to previously recorded scenes.
+
+For example:
+
+* Bank 1 → Scene 2
+* Bank 4 → Scene 3
+* Bank 6 → Scene 5
+* Bank 2 → Scene 7
+
+These scenes can then be arranged into a custom playback sequence.
+
+### Example
+
+Imagine the following scenes have already been programmed:
+
+Bank 1
+
+* Scene 2 = Red Wash
+
+Bank 4
+
+* Scene 3 = Blue Wash
+
+Bank 6
+
+* Scene 5 = White Strobe
+
+A Chase could be programmed as:
+
+Step 1 → Bank 1, Scene 2
+
+↓
+
+Step 2 → Bank 4, Scene 3
+
+↓
+
+Step 3 → Bank 6, Scene 5
+
+↓
+
+Repeat
+
+The operator only needs to press the corresponding Chase Button to play the entire sequence.
+
+### DMX192 Chase Buttons
+
+Most DMX192 controllers provide:
+
+* 6 Chase Buttons
+
+Typically labeled:
+
+* Chase 1
+* Chase 2
+* Chase 3
+* Chase 4
+* Chase 5
+* Chase 6
+
+Each Chase Button can contain multiple scene steps.
+
+Once programmed, the Chase can be recalled instantly during operation.
+
+### Why Use Chases?
+
+Without Chases, an operator would need to manually select scenes and banks throughout the performance.
+
+A Chase automates this process.
+
+Benefits include:
+
+* Faster operation
+* Consistent playback
+* Dynamic lighting effects
+* Reduced manual workload
+* Easier live performance control
+
+### Recording a Chase
 
 To create a Chase:
 
 1. Enter Program Mode.
-2. Select a Chase Button.
-3. Add scenes using MIDI/ADD.
-4. Repeat until the sequence is complete.
-5. Exit Program Mode.
+2. Press the desired Chase Button.
+3. Select the Bank containing the scene.
+4. Press the Scene Button.
+5. Press MIDI/ADD to store the step.
+6. Repeat for additional scenes.
+7. Exit Program Mode.
 
-The chase can now be played back automatically.
+The Chase is now stored in memory.
+
+### Example Programming Sequence
+
+Imagine the following scenes have already been programmed:
+
+#### Bank 1 — Scene 2
+
+Fixture 1 → FG-369 LED PAR 54 RGBW
+
+* Amber Wash
+
+Fixture 2 → Big Dipper L001 Half-Ball
+
+* Slow Multicolor Rotation
+
+Fixture 3 → LM30A Mini Spider
+
+* Red Beam Movement
+
+Result:
+
+Warm and welcoming atmosphere.
+
+---
+
+#### Bank 4 — Scene 3
+
+Fixture 1 → FG-369 LED PAR 54 RGBW
+
+* Blue Wash
+
+Fixture 2 → Big Dipper L001 Half-Ball
+
+* Blue and White Rotation
+
+Fixture 3 → LM30A Mini Spider
+
+* Fast Blue Chase
+
+Result:
+
+Cool and energetic atmosphere.
+
+---
+
+#### Bank 6 — Scene 5
+
+Fixture 1 → FG-369 LED PAR 54 RGBW
+
+* Full White
+
+Fixture 2 → Big Dipper L001 Half-Ball
+
+* Fast RGB Rotation
+
+Fixture 3 → LM30A Mini Spider
+
+* White Strobe Effect
+
+Result:
+
+High-energy atmosphere for musical peaks.
+
+---
+
+#### Bank 2 — Scene 7
+
+Fixture 1 → FG-369 LED PAR 54 RGBW
+
+* Cyan Wash
+
+Fixture 2 → Big Dipper L001 Half-Ball
+
+* Slow Blue Rotation
+
+Fixture 3 → LM30A Mini Spider
+
+* Cyan Static Pattern
+
+Result:
+
+Relaxed ambient atmosphere.
+
+### Chase 1
+
+The following Chase could be programmed:
+
+Step 1 → Bank 1, Scene 2
+
+↓
+
+Step 2 → Bank 4, Scene 3
+
+↓
+
+Step 3 → Bank 6, Scene 5
+
+↓
+
+Step 4 → Bank 2, Scene 7
+
+↓
+
+Repeat
+
+During playback, all three fixtures change simultaneously because each scene contains DMX information for every programmed fixture.
+
+The Chase is therefore not simply changing colors or effects.
+
+It is transitioning between complete lighting looks involving the entire lighting system.
+
+### Important
+
+A scene can store the state of multiple fixtures at the same time.
+
+As a result, a Chase is typically a sequence of complete lighting states rather than a sequence of individual fixture commands.
+
+In practical use, operators often build Chases from scenes that already contain coordinated colors, movements and effects across all fixtures in the setup.
+
+
+
+### Speed and Fade Time
+
+Just like automatic scene playback, Chases can be influenced by:
+
+* Speed
+* Fade Time
+
+Speed determines how quickly the Chase advances from one step to the next.
+
+Fade Time determines how smoothly the controller transitions between steps.
+
+This allows the same Chase to create very different visual atmospheres depending on the settings used.
+
+### Mental Model
+
+Scene
+
+↓
+
+Stored inside a Bank
+
+↓
+
+Selected and added to a Chase
+
+↓
+
+Automatically played back during a show
+
+A useful way to think about a Chase is as a playlist.
+
+Scenes are the individual songs.
+
+Banks organize those songs.
+
+The Chase is the playlist that determines the order in which they are played.
 
 ---
 
