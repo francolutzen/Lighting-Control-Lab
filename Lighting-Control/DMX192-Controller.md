@@ -508,50 +508,15 @@ Unlike a Bank, which simply stores scenes together, a Chase allows scenes from d
 
 This makes Chases one of the most powerful programming tools available on a DMX192 controller.
 
-### What Can a Chase Contain?
-
-A Chase does not store DMX values directly.
-
-Instead, it stores references to previously recorded scenes.
-
-For example:
-
-* Bank 1 → Scene 2
-* Bank 4 → Scene 3
-* Bank 6 → Scene 5
-* Bank 2 → Scene 7
-
-These scenes can then be arranged into a custom playback sequence.
-
 ### Example
-
-Imagine the following scenes have already been programmed:
-
-Bank 1
-
-* Scene 2 = Red Wash
-
-Bank 4
-
-* Scene 3 = Blue Wash
-
-Bank 6
-
-* Scene 5 = White Strobe
 
 A Chase could be programmed as:
 
 Step 1 → Bank 1, Scene 2
 
-↓
-
 Step 2 → Bank 4, Scene 3
 
-↓
-
 Step 3 → Bank 6, Scene 5
-
-↓
 
 Repeat
 
@@ -640,7 +605,7 @@ Fixture 2 → Big Dipper L001 Half-Ball
 
 Fixture 3 → LM30A Mini Spider
 
-* Fast Blue Chase
+* Fast Blue Strobe
 
 Result:
 
@@ -680,7 +645,7 @@ Fixture 2 → Big Dipper L001 Half-Ball
 
 Fixture 3 → LM30A Mini Spider
 
-* Cyan Static Pattern
+* Blue Static Pattern
 
 Result:
 
@@ -692,19 +657,11 @@ The following Chase could be programmed:
 
 Step 1 → Bank 1, Scene 2
 
-↓
-
 Step 2 → Bank 4, Scene 3
-
-↓
 
 Step 3 → Bank 6, Scene 5
 
-↓
-
 Step 4 → Bank 2, Scene 7
-
-↓
 
 Repeat
 
@@ -721,8 +678,6 @@ A scene can store the state of multiple fixtures at the same time.
 As a result, a Chase is typically a sequence of complete lighting states rather than a sequence of individual fixture commands.
 
 In practical use, operators often build Chases from scenes that already contain coordinated colors, movements and effects across all fixtures in the setup.
-
-
 
 ### Speed and Fade Time
 
