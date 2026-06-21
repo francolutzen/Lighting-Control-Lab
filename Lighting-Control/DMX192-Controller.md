@@ -159,7 +159,9 @@ Each fixture responds only to the channels associated with its DMX address.
 
 <img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/cb78e7f8-bf7c-45b8-9830-663e04f1206f" />
 
+
 Each fixture receives the DMX signal through its DMX IN connector and forwards the signal through its DMX OUT connector to the next fixture in the chain.
+
 ---
 
 # Entering Program Mode
@@ -172,33 +174,85 @@ To record scenes or chases:
 
 Changes can now be stored in memory.
 
-[Insert photo showing Program button]
-
 ---
 
-# Recording a Scene
+## Programming a Scene on the LK-C01 DMX192
 
-Step 1
+The following procedure describes how scene programming works on the LK-C01 DMX192 controller used in this project.
 
-Select the desired Scanner.
+### Step 1 — Select the Fixture
 
-Step 2
+Press the Scanner Buttons corresponding to the fixtures you want to control.
 
-Adjust channel values using the faders.
+Examples:
 
-Step 3
+- Scanner 1
+- Scanner 2
+- Scanner 3
 
-Choose the target Bank.
+Multiple Scanner Buttons can be selected simultaneously.
 
-Step 4
+### Step 2 — Adjust the Channels
 
-Press MIDI/ADD.
+Use the channel faders to create the desired lighting state.
 
-Step 5
+Examples:
 
-Press the desired Scene Button.
+- Set colors
+- Adjust movement
+- Configure strobe effects
+- Select patterns
+- Set brightness levels
 
-The scene is now stored.
+The resulting combination of channel values will become the scene.
+
+### Step 3 — Enter Programming Mode
+
+Press and hold the **PROGRAM** button until the LED display begins flashing.
+
+This indicates that the controller has entered programming mode.
+
+### Step 4 — Enable Scene Recording
+
+Press the **MIDI/ADD** button.
+
+The controller is now ready to store the current lighting state.
+
+### Step 5 — Store the Scene
+
+Press the desired **SCENE BUTTON**.
+
+The current DMX values are stored in that scene location.
+
+Example:
+
+- Scene 1
+- Scene 2
+- Scene 3
+
+### Step 6 — Exit Programming Mode
+
+Press and hold the **PROGRAM** button again until the display stops flashing.
+
+This exits programming mode.
+
+### Step 7 — Disable Blackout
+
+On the LK-C01 DMX192, exiting programming mode automatically activates **BLACKOUT**.
+
+To return to normal operation:
+
+- Press the **BLACKOUT** button once.
+
+The newly recorded scene can now be played back normally.
+
+### Notes
+
+This procedure is specific to the LK-C01 DMX192 controller.
+
+Other DMX192-compatible consoles may use slightly different button combinations or programming workflows.
+
+Always consult the original manual for the exact procedure used by your controller model.
 
 ---
 
