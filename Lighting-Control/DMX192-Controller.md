@@ -138,8 +138,11 @@ DMX Controller
      │ DMX OUT
      ▼
 ┌─────────────┐
+
 │  Fixture A  │
+
 │ Address 001 │
+
 └─────────────┘
 
      │
