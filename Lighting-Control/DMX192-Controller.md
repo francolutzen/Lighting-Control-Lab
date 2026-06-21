@@ -31,7 +31,7 @@ After completing this document, you should understand how to:
 
 # Physical Layout
 
-[Insert annotated photograph of your DMX192 controller]
+<img width="3936" height="2214" alt="IMG_1566" src="https://github.com/user-attachments/assets/fe406128-ae36-4d04-892e-1e525b920a9e" />
 
 The console is divided into several functional sections:
 
