@@ -324,32 +324,27 @@ A Bank is a collection of scenes.
 
 Most DMX192 controllers provide:
 
-* 30 Banks
-* 8 Scenes per Bank
+- 30 Banks
+- 8 Scenes per Bank
 
 Total:
 
-240 Scenes
+- 240 Scenes
 
-Example:
+### Example
 
-Bank 1
+Bank 1 — Basic Color Palette
 
-Scene 1 = Red Wash
+- Scene 1 = Red Wash
+- Scene 2 = Orange Wash
+- Scene 3 = Yellow Wash
+- Scene 4 = Green Wash
+- Scene 5 = Cyan Wash
+- Scene 6 = Blue Wash
+- Scene 7 = Magenta Wash
+- Scene 8 = White Wash
 
-Scene 2 = Blue Wash
-
-Scene 3 = Green Wash
-
-Scene 4 = White Wash
-
----
-
-## Automatic Scene Playback
-
-Scenes can be played individually by pressing their corresponding Scene Button.
-
-However, the DMX192 controller can also play all scenes within a Bank automatically.
+This Bank acts as a color palette that can be used during live operation or as the foundation for building chases.
 
 ### Starting Automatic Playback
 
