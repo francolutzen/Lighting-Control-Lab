@@ -159,6 +159,22 @@ Each fixture responds only to the channels associated with its DMX address.
 
 <img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/cb78e7f8-bf7c-45b8-9830-663e04f1206f" />
 
+### Important — Always Use a DMX Terminator
+
+A DMX terminator should be installed on the **DMX OUT** connector of the last fixture in the chain.
+
+Using a terminator is especially important:
+
+* On the last fixture of a DMX daisy-chain.
+* When cable runs exceed approximately 30 meters (100 ft).
+* In stage lighting, concerts, live events and outdoor installations.
+* When troubleshooting flickering, erratic behavior or communication problems.
+
+A DMX terminator helps absorb signal reflections that can travel back through the cable and cause unreliable fixture behavior.
+
+**Tip:** Even if the system appears to work correctly without a terminator, it is still recommended to use one. Signal problems may only become visible under specific conditions and can appear unexpectedly during a live show.
+
+
 
 Each fixture receives the DMX signal through its DMX IN connector and forwards the signal through its DMX OUT connector to the next fixture in the chain.
 
