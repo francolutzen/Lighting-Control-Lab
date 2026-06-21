@@ -475,29 +475,6 @@ The chase can now be played back automatically.
 
 ---
 
-# Speed and Fade
-
-The console provides two important controls:
-
-## Speed
-
-Controls how quickly the console moves from one step to the next.
-
-## Fade Time
-
-Controls how smoothly transitions occur.
-
-These controls affect:
-
-* Chases
-* Automatic scene playback
-
-They are among the most powerful expressive tools available on a DMX192 controller.
-
-[Insert photo highlighting Speed and Fade controls]
-
----
-
 # Music Mode
 
 Music Mode allows the controller to advance scenes or chase steps according to sound detected by the internal microphone.
