@@ -1,6 +1,3 @@
-<img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/112d078b-8ce9-4aff-b121-c3f3952a8266" />
-# DMX192 Controller
-
 ## Introduction
 
 The DMX192 controller is one of the most common entry-level lighting consoles used for learning DMX512 programming.
