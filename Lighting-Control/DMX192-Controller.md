@@ -106,7 +106,7 @@ Example:
 
 Scanner 1 selected
 
-Page A:
+# Page A:
 
 Fader 1 → DMX Channel 1
 
@@ -116,7 +116,7 @@ Fader 2 → DMX Channel 2
 
 Fader 8 → DMX Channel 8
 
-Page B:
+# Page B:
 
 Fader 1 → DMX Channel 9
 
@@ -132,59 +132,42 @@ Fader 8 → DMX Channel 16
 
 A basic DMX chain may look like:
 
-DMX192 Controller
-
-↓
-
-Fixture A
-
-↓
-
-Fixture B
-
-↓
-
-Fixture C
-
-↓
-
-DMX Terminator
+DMX Controller
+     │
+     │ DMX OUT
+     ▼
+┌─────────────┐
+│  Fixture A  │
+│ Address 001 │
+└─────────────┘
+     │
+     │ DMX OUT
+     ▼
+┌─────────────┐
+│  Fixture B  │
+│ Address 017 │
+└─────────────┘
+     │
+     │ DMX OUT
+     ▼
+┌─────────────┐
+│  Fixture C  │
+│ Address 033 │
+└─────────────┘
+     │
+     │ DMX OUT
+     ▼
+┌────────────────┐
+│ DMX Terminator │
+└────────────────┘
 
 All fixtures receive the same DMX signal.
 
 Each fixture responds only to the channels associated with its DMX address.
 
+# Example Real Setup
+
 <img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/cb78e7f8-bf7c-45b8-9830-663e04f1206f" />
-
----
-
-# Example Setup
-
-Fixture 1
-
-Type: RGBW PAR
-
-Address: 1
-
-Scanner: 1
-
-Fixture 2
-
-Type: Laser
-
-Address: 17
-
-Scanner: 2
-
-Fixture 3
-
-Type: Spider
-
-Address: 33
-
-Scanner: 3
-
-This arrangement matches the fixed 16-channel blocks used by the controller.
 
 ---
 
