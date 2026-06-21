@@ -159,6 +159,36 @@ Each fixture responds only to the channels associated with its DMX address.
 
 <img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/cb78e7f8-bf7c-45b8-9830-663e04f1206f" />
 
+This example shows a basic DMX installation using three fixtures connected in a daisy-chain configuration.
+
+Fixture 1 → FG-369 LED PAR 54 RGBW
+
+Fixture 2 → Big Dipper L001 Half-Ball
+
+Fixture 3 → LM30A Mini Spider 8×3W RGBW
+
+Notice that the physical order of the fixtures in the DMX chain does not determine how they are controlled.
+
+Control is determined by each fixture's DMX address.
+
+For example:
+
+Fixture 1 → Address 001
+
+Fixture 2 → Address 017
+
+Fixture 3 → Address 033
+
+or
+
+Fixture 1 → Address 033
+
+Fixture 2 → Address 001
+
+Fixture 3 → Address 017
+
+Both configurations would function correctly as long as the addresses are configured properly.
+
 ### Important — Always Use a DMX Terminator
 
 A DMX terminator should be installed on the **DMX OUT** connector of the last fixture in the chain.
