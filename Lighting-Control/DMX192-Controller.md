@@ -1,5 +1,4 @@
-
-## Introduction
+# Introduction
 
 The DMX192 controller is one of the most common entry-level lighting consoles used for learning DMX512 programming.
 
