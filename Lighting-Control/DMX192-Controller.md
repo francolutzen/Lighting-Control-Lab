@@ -133,6 +133,7 @@ Fader 8 → DMX Channel 16
 A basic DMX chain may look like:
 
 DMX Controller
+
      │
      │ DMX OUT
      ▼
@@ -140,6 +141,7 @@ DMX Controller
 │  Fixture A  │
 │ Address 001 │
 └─────────────┘
+
      │
      │ DMX OUT
      ▼
@@ -147,6 +149,7 @@ DMX Controller
 │  Fixture B  │
 │ Address 017 │
 └─────────────┘
+
      │
      │ DMX OUT
      ▼
@@ -154,12 +157,15 @@ DMX Controller
 │  Fixture C  │
 │ Address 033 │
 └─────────────┘
+
      │
      │ DMX OUT
      ▼
+
 ┌────────────────┐
 │ DMX Terminator │
 └────────────────┘
+
 
 All fixtures receive the same DMX signal.
 
