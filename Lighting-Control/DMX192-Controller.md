@@ -82,6 +82,8 @@ Scanner 11 → Channels 161-176
 
 Scanner 12 → Channels 177–192
 
+This organization is a limitation of the controller and should not be confused with DMX512 addressing itself.
+
 ---
 
 Because each Scanner Button controls a dedicated 16-channel block, a DMX192 controller can directly manage up to 12 independent fixture groups.
@@ -101,8 +103,6 @@ PAR 3 → Address 001
 All three fixtures will respond together when Scanner 1 is selected.
 
 The practical limitation is therefore 12 independently controlled fixture groups rather than 12 individual fixtures.
-
-This organization is a limitation of the controller and should not be confused with DMX512 addressing itself.
 
 ---
 
