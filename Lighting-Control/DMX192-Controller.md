@@ -132,15 +132,7 @@ Fader 8 → DMX Channel 16
 
 A basic DMX chain may look like:
 
-Controller DMX192 (DMX OUT)
-        ↓
-Fixture A (DMX IN → DMX OUT)
-        ↓
-Fixture B (DMX IN → DMX OUT)
-        ↓
-Fixture C (DMX IN → DMX OUT)
-        ↓
-DMX Terminator
+DMX Controller (OUT) → Fixture A (IN/OUT) → Fixture B (IN/OUT) → Fixture C (IN/OUT) → DMX Terminator
 
 All fixtures receive the same DMX signal.
 
