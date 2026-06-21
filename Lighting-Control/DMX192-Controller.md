@@ -1,3 +1,4 @@
+<img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/112d078b-8ce9-4aff-b121-c3f3952a8266" />
 # DMX192 Controller
 
 ## Introduction
@@ -156,7 +157,7 @@ All fixtures receive the same DMX signal.
 
 Each fixture responds only to the channels associated with its DMX address.
 
-[Insert photograph of real DMX connection]
+<img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/cb78e7f8-bf7c-45b8-9830-663e04f1206f" />
 
 ---
 
