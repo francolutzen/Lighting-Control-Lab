@@ -345,18 +345,119 @@ Scene 4 = White Wash
 
 ---
 
-# Playing Scenes
+## Automatic Scene Playback
 
-Scenes can be triggered manually by pressing Scene Buttons.
+Scenes can be played individually by pressing their corresponding Scene Button.
 
-Alternatively, they can be played automatically using:
+However, the DMX192 controller can also play all scenes within a Bank automatically.
 
-* Auto Mode
-* Music Mode
+### Starting Automatic Playback
 
-Speed and Fade controls can influence scene transitions.
+1. Select the desired Bank.
+2. Press the **AUTO/DEL** button.
 
----
+The controller will begin cycling through the scenes stored in the selected Bank.
+
+For example:
+
+Bank 01
+
+* Scene 1 → Red
+* Scene 2 → Green
+* Scene 3 → Blue
+* Scene 4 → White
+
+When Auto Mode is active, the controller will continuously move from one scene to the next without requiring manual input.
+
+### Speed and Fade Time During Automatic Playback
+
+Two controls determine how the transitions occur:
+
+* **Speed**
+* **Fade Time**
+
+### Speed
+
+The **Speed** control determines how quickly the controller advances from one scene to the next.
+
+Examples:
+
+Low Speed:
+
+* Long delay between scene changes.
+
+High Speed:
+
+* Rapid scene changes.
+
+### Fade Time
+
+The **Fade Time** control determines how smoothly the controller transitions between scenes.
+
+Low Fade Time:
+
+* Instant transitions.
+* Abrupt visual changes.
+
+High Fade Time:
+
+* Gradual transitions.
+* Intermediate colors and values become visible.
+
+### Example
+
+Imagine Bank 01 contains:
+
+* Scene 1 → Red
+* Scene 2 → Green
+* Scene 3 → Blue
+
+If:
+
+* Speed is set high.
+* Fade Time is set low.
+
+The controller will jump rapidly between red, green and blue.
+
+Result:
+
+Red → Green → Blue → Red → Green → Blue
+
+The effect feels energetic, aggressive and rhythmic because there is very little blending between colors.
+
+If:
+
+* Speed remains high.
+* Fade Time is increased.
+
+The controller will gradually blend between scenes.
+
+Result:
+
+Red → Yellow → Green → Cyan → Blue → Magenta → Red
+
+The intermediate colors become visible because the DMX values are being crossfaded rather than switched instantly.
+
+### Creative Use
+
+The relationship between Speed and Fade Time has a major impact on the atmosphere created by the lighting system.
+
+Low Fade Time often produces:
+
+* Sharp transitions
+* Rhythmic effects
+* Energetic looks
+* Dancefloor-oriented lighting
+
+Higher Fade Time often produces:
+
+* Smooth color washes
+* Ambient transitions
+* Relaxed environments
+* More cinematic atmospheres
+
+Learning to balance Speed and Fade Time is one of the most important creative skills when working with a DMX192 controller.
+
 
 # Recording a Chase
 
