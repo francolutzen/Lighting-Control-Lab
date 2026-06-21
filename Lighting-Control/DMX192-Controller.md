@@ -133,7 +133,7 @@ Fader 8 → DMX Channel 16
 A basic DMX chain may look like:
 
 DMX OUT      DMX IN/OUT      DMX IN/OUT      DMX IN/OUT
-Controller → Fixture A → Fixture B → Fixture C → Terminator
+Controller   → Fixture A      → Fixture B     → Fixture C → Terminator
 
 All fixtures receive the same DMX signal.
 
@@ -143,6 +143,7 @@ Each fixture responds only to the channels associated with its DMX address.
 
 <img width="3768" height="2120" alt="B662E5DC-452A-44DE-9A07-C8DE2B148BC0" src="https://github.com/user-attachments/assets/cb78e7f8-bf7c-45b8-9830-663e04f1206f" />
 
+Each fixture receives the DMX signal through its DMX IN connector and forwards the signal through its DMX OUT connector to the next fixture in the chain.
 ---
 
 # Entering Program Mode
