@@ -346,7 +346,7 @@ Bank 1 — Basic Color Palette
 
 This Bank acts as a color palette that can be used during live operation or as the foundation for building chases.
 
-### Starting Automatic Playback
+## Starting Automatic Playback
 
 1. Select the desired Bank.
 2. Press the **AUTO/DEL** button.
@@ -364,7 +364,7 @@ Bank 01
 
 When Auto Mode is active, the controller will continuously move from one scene to the next without requiring manual input.
 
-### Speed and Fade Time During Automatic Playback
+## Speed and Fade Time During Automatic Playback
 
 Two controls determine how the transitions occur:
 
