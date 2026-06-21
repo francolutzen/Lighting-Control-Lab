@@ -252,6 +252,23 @@ Examples:
 
 The resulting combination of channel values will become the scene.
 
+### Important — Reset Unused Faders
+
+When programming multiple fixtures, it is good practice to lower any faders that are no longer needed before selecting and programming other fixtures.
+
+Example:
+
+1. Select Scanner 1.
+2. Create a red color using the RGB channels.
+3. Store the scene.
+4. Lower the RGB faders.
+5. Select Scanner 2.
+6. Continue programming the next fixture.
+
+Leaving unnecessary faders raised can make it difficult to see which channels are actively contributing to the scene and may lead to programming mistakes.
+
+Keeping unused faders at zero helps maintain a clear workflow and makes scene programming easier to understand and troubleshoot.
+
 ### Step 3 — Enter Programming Mode
 
 Press and hold the **PROGRAM** button until the LED display begins flashing.
