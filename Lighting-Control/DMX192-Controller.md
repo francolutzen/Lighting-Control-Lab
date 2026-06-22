@@ -189,6 +189,61 @@ Fixture 3 → Address 017
 
 Both configurations would function correctly as long as the addresses are configured properly.
 
+### Understanding the DMX Signal Path
+
+DMX512 uses a daisy-chain topology to distribute control data from the controller to all fixtures in the lighting system.
+
+The DMX signal originates at the controller and travels from one fixture to the next through the DMX IN and DMX OUT connectors.
+
+A typical connection looks like:
+
+DMX192 Controller (DMX OUT)
+
+↓
+
+Fixture 1 (DMX IN → DMX OUT)
+
+↓
+
+Fixture 2 (DMX IN → DMX OUT)
+
+↓
+
+Fixture 3 (DMX IN → DMX OUT)
+
+↓
+
+DMX Terminator
+
+In this configuration:
+
+* The controller sends a continuous stream of DMX data.
+* The first fixture receives the signal through its DMX IN connector.
+* The fixture then forwards the same signal through its DMX OUT connector.
+* The next fixture receives that signal through its own DMX IN connector.
+* This process continues until the final fixture in the chain.
+
+It is important to understand that fixtures do not stop the DMX signal.
+
+Instead, they listen to the channels assigned to their DMX address while simultaneously passing the signal to the next fixture.
+
+For example:
+
+Fixture 1 → Address 001
+
+Fixture 2 → Address 017
+
+Fixture 3 → Address 033
+
+Although all three fixtures receive the same DMX data stream, each fixture only responds to the channels associated with its own address.
+
+All other DMX channels are ignored.
+
+This allows multiple fixtures to share the same cable while remaining independently controllable.
+
+A useful way to think about DMX is that every fixture "hears" the entire conversation, but only responds when its assigned channel numbers are mentioned.
+
+
 ### Important — Always Use a DMX Terminator
 
 A DMX terminator should be installed on the **DMX OUT** connector of the last fixture in the chain.
