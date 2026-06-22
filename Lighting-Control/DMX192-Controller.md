@@ -465,8 +465,7 @@ Bank 1 — Basic Color Palette
 
 This Bank acts as a color palette that can be used during live operation or as the foundation for building chases.
 
-
-## Starting Automatic Playback
+## Automatic Scene Playback
 
 1. Select the desired Bank.
 2. Press the **AUTO/DEL** button.
@@ -484,30 +483,32 @@ Bank 01
 
 When Auto Mode is active, the controller will continuously move from one scene to the next without requiring manual input.
 
-## Speed and Fade Time During Automatic Playback
+## Speed and Fade Time
 
-Two controls determine how the transitions occur:
+The Speed and Fade Time controls affect both:
 
-* **Speed**
-* **Fade Time**
+* Automatic Scene Playback
+* Chase Playback
+
+Understanding these controls is essential because they determine how quickly and how smoothly the controller transitions between lighting states.
 
 ### Speed
 
-The **Speed** control determines how quickly the controller advances from one scene to the next.
+The **Speed** control determines how quickly the controller advances from one scene or chase step to the next.
 
 Examples:
 
 Low Speed:
 
-* Long delay between scene changes.
+* Long delay between transitions.
 
 High Speed:
 
-* Rapid scene changes.
+* Rapid transitions.
 
 ### Fade Time
 
-The **Fade Time** control determines how smoothly the controller transitions between scenes.
+The **Fade Time** control determines how smoothly the controller transitions between scenes or chase steps.
 
 Low Fade Time:
 
@@ -552,6 +553,35 @@ Result:
 Red → Yellow → Green → Cyan → Blue → Magenta → Red
 
 The intermediate colors become visible because the DMX values are being crossfaded rather than switched instantly.
+
+### Creative Use
+
+The relationship between Speed and Fade Time has a major impact on the atmosphere created by the lighting system.
+
+Low Fade Time often produces:
+
+* Sharp transitions
+* Rhythmic effects
+* Energetic looks
+* Dancefloor-oriented lighting
+
+Higher Fade Time often produces:
+
+* Smooth color washes
+* Ambient transitions
+* Relaxed environments
+* More cinematic atmospheres
+
+Learning to balance Speed and Fade Time is one of the most important creative skills when working with a DMX192 controller.
+
+### Relationship to Chases
+
+The same Speed and Fade Time controls are also used during Chase playback.
+
+When a Chase is running, Speed determines how quickly the controller advances from one step to the next, while Fade Time determines how smoothly the transition occurs.
+
+As a result, the same Chase can create very different visual atmospheres depending on the playback settings selected by the operator.
+
 
 ### Creative Use
 
@@ -751,45 +781,6 @@ A scene can store the state of multiple fixtures at the same time.
 As a result, a Chase is typically a sequence of complete lighting states rather than a sequence of individual fixture commands.
 
 In practical use, operators often build Chases from scenes that already contain coordinated colors, movements and effects across all fixtures in the setup.
-
-# Speed and Fade Time
-
-Just like automatic scene playback, Chases can be influenced by:
-
-* Speed
-* Fade Time
-
-Speed determines how quickly the Chase advances from one step to the next.
-
-Fade Time determines how smoothly the controller transitions between steps.
-
-This allows the same Chase to create very different visual atmospheres depending on the settings used.
-
-### Mental Model
-
-Scene
-
-↓
-
-Stored inside a Bank
-
-↓
-
-Selected and added to a Chase
-
-↓
-
-Automatically played back during a show
-
-A useful way to think about a Chase is as a playlist.
-
-Scenes are the individual songs.
-
-Banks organize those songs.
-
-The Chase is the playlist that determines the order in which they are played.
-
----
 
 # Music Mode
 
