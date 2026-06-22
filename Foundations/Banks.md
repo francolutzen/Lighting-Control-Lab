@@ -120,9 +120,7 @@ Scene 7
 
 Scene 8
 
-
 ...
-
 
 # Bank 30
 
