@@ -420,33 +420,51 @@ Scenes are the basic building blocks of programming.
 
 ---
 
-# Banks
+## Banks
 
 A Bank is a collection of scenes.
 
 Most DMX192 controllers provide:
 
-- 30 Banks
-- 8 Scenes per Bank
+* 30 Banks
+* 8 Scenes per Bank
 
 Total:
 
-- 240 Scenes
+* 240 Scenes
+
+### Selecting Banks
+
+On most DMX192 controllers, the current Bank number is shown on the LED display.
+
+To the right of the **BANK** label are two buttons aligned with the **UP** and **DOWN** arrows.
+
+These buttons allow the operator to navigate through the available Banks.
+
+Examples:
+
+* Bank Up → Next Bank
+* Bank Down → Previous Bank
+
+This allows quick access to all 30 Banks stored in the controller's memory.
+
+Before recording or playing back a scene, always verify that the correct Bank is selected.
 
 ### Example
 
 Bank 1 — Basic Color Palette
 
-- Scene 1 = Red Wash
-- Scene 2 = Orange Wash
-- Scene 3 = Yellow Wash
-- Scene 4 = Green Wash
-- Scene 5 = Cyan Wash
-- Scene 6 = Blue Wash
-- Scene 7 = Magenta Wash
-- Scene 8 = White Wash
+* Scene 1 = Red Wash
+* Scene 2 = Orange Wash
+* Scene 3 = Yellow Wash
+* Scene 4 = Green Wash
+* Scene 5 = Cyan Wash
+* Scene 6 = Blue Wash
+* Scene 7 = Magenta Wash
+* Scene 8 = White Wash
 
 This Bank acts as a color palette that can be used during live operation or as the foundation for building chases.
+
 
 ## Starting Automatic Playback
 
