@@ -5,7 +5,7 @@
 Create a police siren effect using:
 
 * 2 LM30A Mini Spider 8×3W RGBW
-* 2 RGBW PAR fixtures
+* 2 Generic FG-369 RGB
 * DMX192 Controller
 
 The objective is to explore how a simple color palette can create strong real-world associations.
