@@ -1,6 +1,6 @@
 # Atmospheres
 
-Atmospheres contains lighting designs created to evoke specific emotions, moods and visual experiences.
+Atmospheres contains structured lighting systems designed to evoke specific emotions, moods and visual experiences.
 
 While Experiments focuses on exploration and discovery, this section focuses on intentional application.
 
@@ -49,6 +49,31 @@ Each atmosphere may include:
 * Observations
 
 The emphasis is placed on understanding why specific lighting decisions were made and what effect they are intended to produce.
+
+## Atmosphere Structure (Template Model)
+
+Each atmosphere is a structured lighting system composed of validated behavioral patterns derived from Experiments and organized into a coherent emotional experience.
+
+An atmosphere is not a random collection of effects.  
+It is a stabilized system built from repeatable lighting behaviors.
+
+### Core Components
+
+- Behavioral Foundation (from Experiments)
+- Temporal Structure (from Lighting Translation Lab)
+- Emotional Intent (defined in Show Design)
+- Fixture Configuration
+- State Organization (if applicable)
+- Intensity Curve (energy progression over time)
+
+---
+
+### Example Internal Structure
+
+- Base Behavior → derived from experimental states
+- Transition Logic → fade / timing structure
+- Peak Sections → high-intensity moments
+- Breakdown Sections → energy reduction phases
 
 ## Examples of Atmospheres
 
