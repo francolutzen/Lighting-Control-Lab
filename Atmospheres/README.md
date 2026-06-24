@@ -67,19 +67,31 @@ Examples may include:
 
 Each atmosphere explores a different visual language and emotional objective.
 
-## Relationship to Experiments
+## Relationship to the System
 
-Atmospheres are often developed from ideas first explored in Experiments.
+Atmospheres is part of the Lighting-Control-Lab design pipeline.
 
-Experiments answer:
+It receives input from:
 
-> What happens if I try this?
+- Show Design → psychological and perceptual principles
+- Experiments → validated lighting behaviors and tested configurations
+- Lighting Translation Lab → timing and structural logic derived from music
 
-Atmospheres answer:
+Atmospheres provide output to:
 
-> What experience am I trying to create?
+- Performance Systems → as predefined emotional lighting configurations used in full executions
 
-The knowledge gained through experimentation becomes the foundation for intentional atmosphere design.
+---
+
+## System Position
+
+Experiments focus on behavior testing.
+
+Atmospheres focus on emotional design.
+
+Performance Systems focus on full execution.
+
+Atmospheres act as the transition layer between experimental behavior and complete lighting performance systems.
 
 ## Long-Term Goal
 
