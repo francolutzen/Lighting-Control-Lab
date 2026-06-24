@@ -63,6 +63,121 @@ Rock may suggest:
 
 The objective is not to follow fixed rules but to understand the character of the music.
 
+## Step 1.1 — Lyrics Interpretation
+
+Lyrics can provide valuable visual clues that help guide color selection, movement, rhythm and atmosphere design.
+
+Beyond tempo, genre and musical structure, the words used in a song often contain emotional, symbolic and narrative information that can be translated into lighting decisions.
+
+The objective is not to create a literal representation of every word, but to identify recurring themes, emotions and imagery that may strengthen the visual experience.
+
+Examples:
+
+### Fire, Heat, Burn, Flame
+
+Possible visual interpretation:
+
+Colors:
+
+* Red
+* Orange
+* Amber
+* Warm White
+
+Movement:
+
+* Fast transitions
+* Dynamic effects
+* Pulsing intensity
+
+Atmosphere:
+
+* Energy
+* Urgency
+* Power
+
+---
+
+### Ocean, Water, Sky, Moon, Night
+
+Possible visual interpretation:
+
+Colors:
+
+* Blue
+* Cyan
+* Cool White
+
+Movement:
+
+* Slow fades
+* Smooth transitions
+* Gentle movement
+
+Atmosphere:
+
+* Calmness
+* Openness
+* Reflection
+
+---
+
+### Nature, Forest, Earth, Growth
+
+Possible visual interpretation:
+
+Colors:
+
+* Green
+* Soft Amber
+* Warm White
+
+Movement:
+
+* Moderate speed
+* Organic transitions
+
+Atmosphere:
+
+* Balance
+* Stability
+* Natural environments
+
+---
+
+### Technology, Future, Space, Digital Worlds
+
+Possible visual interpretation:
+
+Colors:
+
+* Cyan
+* Blue
+* Magenta
+
+Movement:
+
+* Precise timing
+* Geometric patterns
+* Repetitive sequences
+
+Atmosphere:
+
+* Futuristic
+* Artificial
+* Modern
+
+Important
+
+Lyrics should be considered as one source of information among many.
+
+Genre, tempo, instrumentation, audience expectations and event context often have equal or greater influence on the final lighting design.
+
+The purpose of lyric interpretation is not to replace musical analysis, but to provide additional layers of meaning that can enrich an atmosphere.
+
+As experience grows, lyric interpretation can evolve from simple color associations toward more sophisticated visual storytelling and symbolic design decisions.
+
+
 ## Step 2 — Understanding the Space
 
 Lighting always exists within a physical environment.
