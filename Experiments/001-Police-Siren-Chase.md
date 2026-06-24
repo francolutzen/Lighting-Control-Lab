@@ -81,7 +81,7 @@ This section defines a set of behavioral states used to simulate how a lighting 
 
 These states are experimental and may later be refined, merged or translated into Atmospheres or Performance Systems.
 
-## State 01 — Idle Surveillance (Patrol Mode)
+## State 01 — Idle Surveillance (Prototype Behavior)
 
 Concept
 
@@ -104,7 +104,7 @@ Intro sections
 Low-energy breakdowns
 Narrative transitions
 
-## State 02 — Active Patrol (Movement Mode)
+## State 02 — Active Patrol (Prototype Behavior)
 
 Concept
 
@@ -126,7 +126,7 @@ Verses
 Grooves
 Early build-ups
 
-## State 03 — Emergency Response (Pursuit Mode)
+## State 03 — Emergency Response (Prototype Behavior)
 
 Concept
 
@@ -148,7 +148,7 @@ Drops
 Choruses
 Climactic moments
 
-## State 04 — Intercept / Lock Mode
+## State 04 — (Prototype Behavior)
 
 Concept
 
@@ -170,7 +170,7 @@ Pre-drop sections
 Tension builds
 Transition moments
 
-## State 05 — Breakdown / Aftermath Mode
+## State 05 — (Prototype Behavior)
 
 Concept
 
