@@ -75,9 +75,11 @@ Together, these layers create a more recognizable and immersive effect than usin
 
 `police-siren-demo.gif`
 
-## Experimental Behavioral States (Prototype System)
+## Experimental Behavioral System (Prototype Model)
 
-Each state represents an operational mode of a police vehicle.
+This section defines a set of behavioral states used to simulate how a lighting system might respond dynamically in a real performance context.
+
+These states are experimental and may later be refined, merged or translated into Atmospheres or Performance Systems.
 
 ## State 01 — Idle Surveillance (Patrol Mode)
 
