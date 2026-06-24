@@ -75,9 +75,7 @@ Together, these layers create a more recognizable and immersive effect than usin
 
 `police-siren-demo.gif`
 
-## Behavioral Variants (Expanded System)
-
-Instead of treating the effect as isolated presets, this system defines behavioral states that can be triggered dynamically within a single performance.
+## Experimental Behavioral States (Prototype System)
 
 Each state represents an operational mode of a police vehicle.
 
