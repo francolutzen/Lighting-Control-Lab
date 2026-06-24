@@ -71,9 +71,83 @@ Together, these layers create a more recognizable and immersive effect than usin
 
 ---
 
-## Demonstration
+## Simple demonstration in one scene
 
 `police-siren-demo.gif`
+
+##  Variant A — Static Headlights
+
+Concept
+
+Simular un patrullero estacionado o desplazándose lentamente.
+
+PAR RGB
+
+White Static
+
+Mini Spiders
+
+Red ↔ Blue Alternation
+
+Expected Perception
+
+Police vehicle
+Authority
+Presence
+Surveillance
+
+Demo
+
+police-siren-v1.gif
+
+Variant B — Pulsing Headlights
+
+Concept
+
+Simular un vehículo policial activo.
+
+PAR RGB
+
+White Pulse
+
+Mini Spiders
+
+Red ↔ Blue Alternation
+
+Expected Perception
+
+Increased urgency
+Active response
+Greater visual attention
+
+Demo
+
+police-siren-v2.gif
+
+Variant C — Emergency Response
+
+Concept
+
+Simular una situación de emergencia o persecución.
+
+PAR RGB
+
+White Strobe
+
+Mini Spiders
+
+Fast Red ↔ Blue Alternation
+
+Expected Perception
+
+High tension
+Chaos
+Emergency
+Maximum visual impact
+
+Demo
+
+police-siren-v3.gif
 
 ---
 
