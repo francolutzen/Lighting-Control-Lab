@@ -148,25 +148,20 @@ Understanding why a system behaves in a certain way is often more valuable than 
 
 ---
 
-## Relationship to the Rest of Lightning-Control-Lab
+Role Within Lightning-Control-Lab
 
-Foundations defines how lighting systems function at a technical level.
+Foundations serves as the knowledge layer of the system.
 
-Lighting-Control documents how those systems are operated in software and hardware environments.
+It provides the concepts used by every other section:
 
-Show Design defines the psychological and perceptual principles behind lighting decisions.
+Lighting Control applies these concepts to hardware and software operation.
+Show Design applies them to visual communication and audience perception.
+Lighting Translation Lab applies them to music-responsive behavior systems.
+Experiments uses them to test ideas and discover new possibilities.
+Atmospheres uses them to create intentional emotional environments.
+Performance Systems combines all layers into complete lighting executions.
 
-Lighting Translation Lab defines how musical structure is translated into lighting timing and behavioral logic.
-
-Experiments documents isolated tests of lighting behavior, states, and system responses under controlled conditions.
-
-Atmospheres focuses on intentional emotional and environmental lighting design.
-
-Performance Systems contains complete end-to-end lighting executions where all system layers are integrated into a unified performance.
-
-Learning-Log records personal observations, progress, and iterative development notes.
-
-Assets stores manuals, diagrams, references, and supporting technical material.
+Without Foundations, the rest of the system lacks a common technical language.
 
 ---
 
