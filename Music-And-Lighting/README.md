@@ -1,7 +1,5 @@
 # Lighting Translation Lab
 
-# Lighting Translation Lab
-
 ## Overview
 
 Lighting Translation Lab is a structural interface between music and lighting systems.
