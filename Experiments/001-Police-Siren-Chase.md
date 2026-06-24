@@ -20,9 +20,9 @@ Reference Image:
 
 ## Equipment
 
-Fixture 1 → RGBW PAR
+Fixture 1 → RGB PAR
 
-Fixture 2 → RGBW PAR
+Fixture 2 → RGB PAR
 
 Fixture 3 → LM30A Mini Spider
 
