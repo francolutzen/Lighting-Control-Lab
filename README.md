@@ -1,74 +1,153 @@
 # Lighting-Control-Lab
 
-Personal laboratory dedicated to the study, documentation and experimentation of lighting control, immersive experience design and visual atmosphere creation.
+## Overview
 
-This repository serves as a long-term knowledge base where technical concepts, creative experiments, practical projects and design methodologies are documented as part of an ongoing journey in lighting design and event production.
+Lighting-Control-Lab is a structured design and experimentation framework for lighting systems, immersive environments, and audiovisual experience creation.
+
+It is not a collection of isolated projects, but a layered system for understanding how lighting behaves, how it is designed, and how it is executed in real or simulated performance environments.
+
+The repository evolves as a long-term study of the relationship between technology, music, perception, and visual design.
+
+---
 
 ## Vision
 
-Light is more than a technical resource. It is a design tool capable of transforming spaces, influencing perception, reinforcing musical dynamics and shaping the emotional experience of an audience.
+Light is not only a technical output.
 
-The purpose of this laboratory is to explore the intersection between technology, creativity, music and human perception through the design and programming of lighting systems.
+It is a behavioral and perceptual design medium capable of shaping emotion, directing attention, reinforcing musical structure, and transforming physical space.
 
-## Areas of Exploration
+This laboratory explores how lighting systems can be designed as structured experiences rather than static effects.
+
+---
+
+## System Architecture
+
+The repository is organized into functional layers:
+
+---
 
 ### Foundations
+Defines the technical base of lighting systems.
 
-Fundamental concepts related to DMX512, lighting theory, color theory, visual perception and spatial design.
+Covers:
+- DMX512 fundamentals
+- fixture behavior
+- color systems
+- spatial and visual principles
+- core lighting theory
+
+---
 
 ### Lighting Control
+Focuses on the operational execution of lighting systems.
 
-Documentation about lighting control systems, DMX programming, software workflows, MIDI integration and fixture configuration.
+Covers:
+- DMX programming workflows
+- software control (e.g. QLC+)
+- MIDI integration
+- scene and chase execution
+- fixture configuration
 
-### Atmospheres
-
-Collection of visual atmospheres designed to produce specific emotional, aesthetic and experiential outcomes.
+---
 
 ### Show Design
+Defines the psychological and perceptual principles behind lighting decisions.
 
-Concepts, methodologies and design processes used to create coherent lighting experiences for events and performances.
+Covers:
+- color psychology
+- visual rhythm
+- energy curves
+- audience perception
+- emotional design logic
 
-### Music And Lighting
+---
 
-Research and experimentation focused on the relationship between musical structure, rhythm, dynamics and lighting behavior.
+### Lighting Translation Lab
+Defines how musical structure is translated into lighting behavior.
 
-### Projects
+Covers:
+- BPM to timing conversion
+- rhythm interpretation
+- state mapping from music sections
+- structure-to-light translation rules
 
-Documentation of real and experimental projects, including planning, setup design, programming decisions, execution and evaluation.
+---
 
 ### Experiments
+Documents behavioral tests and system prototypes.
 
-Practical tests, observations and creative explorations aimed at understanding lighting behavior, audience perception and visual impact.
+Covers:
+- isolated lighting behaviors
+- state systems
+- movement and intensity testing
+- visual and perceptual observations
+
+---
+
+### Atmospheres
+Defines intentional emotional lighting environments.
+
+Covers:
+- complete emotional lighting designs
+- color + movement + rhythm systems
+- curated visual experiences
+- psychological intent
+
+---
+
+### Performance Systems
+Documents complete end-to-end lighting executions.
+
+Covers:
+- full system implementations
+- real or simulated performances
+- fixture setups and programming logic
+- integration of all repository layers
+- evaluation and analysis
+
+---
 
 ### Learning Log
+Chronological record of insights, progress, and design evolution.
 
-Chronological record of discoveries, lessons learned, challenges and progress throughout the learning process.
+---
 
 ### Assets
+Reference material including:
+- images
+- diagrams
+- manuals
+- videos
+- supporting documentation
 
-Images, videos, diagrams, reference material and supporting documentation.
+---
 
 ## Current Focus
 
-* DMX512 fundamentals
-* Scene and chase programming
-* Fixture configuration
-* Manual lighting operation
-* Color experimentation
-* Atmosphere design
-* Event lighting concepts
+- DMX512 fundamentals and system behavior
+- lighting control workflows (manual and software-based)
+- state-based lighting design systems
+- translation of music into structured lighting behavior
+- development of reusable lighting architectures
+- immersive atmosphere design
+
+---
 
 ## Long-Term Objectives
 
-* Develop advanced lighting programming skills
-* Design immersive visual experiences
-* Integrate MIDI control workflows
-* Expand into show control and automation
-* Explore projection and visual storytelling
-* Build a professional methodology for event lighting design
+- develop a personal lighting design methodology
+- build a library of reusable lighting systems
+- design structured audiovisual experiences
+- integrate music-driven lighting control systems
+- expand into advanced show control and automation
+- explore narrative and immersive lighting design
+
+---
 
 ## Philosophy
 
-Technology is only part of the process.
+Technology defines what is possible.
 
-The ultimate goal is to understand how light, space, movement, color and music interact to create meaningful experiences for people.
+Design defines what is meaningful.
+
+This repository focuses on how lighting, music, space, and perception interact to form structured experiences rather than isolated effects.
