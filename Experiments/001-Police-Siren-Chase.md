@@ -71,85 +71,126 @@ Together, these layers create a more recognizable and immersive effect than usin
 
 ---
 
-## Simple demonstration in one scene
+## Simple demonstration (Single Scene)
 
 `police-siren-demo.gif`
 
-##  Variant A — Static Headlights
+## Behavioral Variants (Expanded System)
+
+Instead of treating the effect as isolated presets, this system defines behavioral states that can be triggered dynamically within a single performance.
+
+Each state represents an operational mode of a police vehicle.
+
+## State 01 — Idle Surveillance (Patrol Mode)
 
 Concept
 
-Simular un patrullero estacionado o desplazándose lentamente.
+Simulates a patrol vehicle in passive surveillance mode.
 
-PAR RGB
-
-White Static
-
-Mini Spiders
-
-Red ↔ Blue Alternation
-
-Expected Perception
-
-Police vehicle
-Authority
+PAR RGB (Headlights Layer)
+White: 20–40% intensity
+Slow fade in/out (2–4s)
+No strobe
+Mini Spider (Emergency Layer)
+Red ↔ Blue: very slow alternation (2–3s)
+Tilt range: minimal (±10–20°)
+Movement speed: slow easing
+Perceptual Goal
 Presence
-Surveillance
+Spatial control
+Silent surveillance
+Usage
+Intro sections
+Low-energy breakdowns
+Narrative transitions
 
-Demo
-
-police-siren-v1.gif
-
-## Variant B — Pulsing Headlights
-
-Concept
-
-Simular un vehículo policial activo.
-
-PAR RGB
-
-White Pulse
-
-Mini Spiders
-
-Red ↔ Blue Alternation
-
-Expected Perception
-
-Increased urgency
-Active response
-Greater visual attention
-
-Demo
-
-police-siren-v2.gif
-
-## Variant C — Emergency Response
+## State 02 — Active Patrol (Movement Mode)
 
 Concept
 
-Simular una situación de emergencia o persecución.
+The vehicle is in motion, actively scanning its environment.
 
 PAR RGB
+White: 40–70% intensity
+Soft rhythmic pulsing (beat optional)
+Mini Spider
+Red ↔ Blue: medium speed (800ms–1.2s)
+Tilt range: medium sweep (±40–70°)
+Movement: left → right scanning behavior
+Perceptual Goal
+Continuous motion
+Sustained attention
+Controlled energy
+Usage
+Verses
+Grooves
+Early build-ups
 
-White Strobe
+## State 03 — Emergency Response (Pursuit Mode)
 
-Mini Spiders
+Concept
 
-Fast Red ↔ Blue Alternation
+Simulates active emergency response or pursuit.
 
-Expected Perception
-
+PAR RGB
+White: fast strobe (100–200ms bursts)
+Optional blackout gaps
+Mini Spider
+Red ↔ Blue: fast alternation (200–500ms)
+Tilt range: full (0–150°)
+Movement: aggressive oscillation
+Perceptual Goal
 High tension
-Chaos
-Emergency
-Maximum visual impact
+Chaos simulation
+Maximum intensity
+Usage
+Drops
+Choruses
+Climactic moments
 
-Demo
+## State 04 — Intercept / Lock Mode
 
-police-siren-v3.gif
+Concept
 
----
+Represents target acquisition or controlled interception.
+
+PAR RGB
+White: focused beam (60–90%)
+Short pulses (non-strobe)
+Mini Spider
+Red ↔ Blue: medium-fast (500–800ms)
+Tilt: gradually narrows toward center
+Movement: convergence behavior
+Perceptual Goal
+Control
+Focus
+Target acquisition
+Usage
+Pre-drop sections
+Tension builds
+Transition moments
+
+## State 05 — Breakdown / Aftermath Mode
+
+Concept
+
+Represents aftermath and dissipation of energy.
+
+PAR RGB
+White: low intensity (10–30%)
+Slow fades
+Mini Spider
+Red/Blue: slow or desynchronized alternation
+Tilt: reduced motion or drift behavior
+Occasional freeze frames
+Perceptual Goal
+Resolution
+Emotional decay
+Spatial emptiness
+Usage
+Outros
+Emotional breakdowns
+Long transitions
 
 ## Hypothesis
 
@@ -186,8 +227,9 @@ This effect may be useful during:
 
 - Add fog to enhance beam visibility
 - Add white strobe flashes
-- Synchronize the effect with specific lyrics
+- Synchronize the effect with specific lyrics or MIDI triggers
 - Experiment with different red-blue alternation speeds
 - Recreate rotating beacon behavior
 - Test audience recognition and emotional response
-- Adapt the effect for software-based control using QLC+
+- Adapt the effect for software-based control using QLC+ scene mapping
+- Audience perception testing
