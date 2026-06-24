@@ -16,7 +16,8 @@ The experiment is inspired by emergency vehicle warning lights.
 
 Reference Image:
 
-IMG_Reference_Police_Siren
+<img width="740" height="555" alt="luces-coche-policia-luces-luces-intermitentes-coches-sheriff-seguridad-luz-sirena-emergencia-e-ilustracion-transporte-seguro_102902-1454" src="https://github.com/user-attachments/assets/9ecedd6d-3c58-44f6-9820-25b6aee63b1f" />
+
 
 ## Equipment
 
