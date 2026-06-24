@@ -1,143 +1,141 @@
-# Lighting-Control
+# Lighting Control
 
-Lighting-Control focuses on the practical operation of lighting systems.
+Lighting Control focuses on the operation, programming and performance of lighting systems.
 
-While Foundations explains how DMX systems work, this section explores how those systems are controlled, programmed and operated in real-world situations.
+While Foundations explains how lighting systems work, this section explores how those systems are controlled in practice using hardware controllers, software platforms and live performance workflows.
 
-The goal is to study different control methods, understand their strengths and limitations, and develop efficient workflows for both live operation and programmed shows.
-
----
+The objective is to develop the ability to translate lighting ideas into executable control systems.
 
 ## Purpose
 
-The purpose of this section is to document the tools, controllers, software platforms and control philosophies used to interact with lighting systems.
-
-This includes both traditional hardware controllers and modern software-based solutions.
-
-Particular attention is given to manual control, live performance, MIDI integration and creative flexibility.
-
----
-
-## Documents
-
-### DMX192 Controller
-
-Study of the classic DMX192 hardware controller.
+The purpose of this section is to study the tools, workflows and control methods used to operate lighting systems.
 
 Topics include:
 
-* Scanner buttons
-* Channel pages
-* Fixture assignment
-* Scene programming
-* Banks
-* Chases
-* Fade Time
-* Speed controls
-* Live operation workflows
-* Hardware limitations
+* hardware controllers
+* lighting software
+* fixture management
+* scene programming
+* chase construction
+* MIDI integration
+* playback systems
+* live operation techniques
 
----
+The focus is not on visual design itself, but on the methods used to execute and control that design.
 
-### QLC+
+## Scope
 
-Study of Q Light Controller Plus (QLC+).
+This section documents practical control systems and operational workflows.
 
-Topics include:
+Typical topics include:
 
-* Fixture management
-* Virtual Console
-* Functions
-* Scenes
-* Chasers
-* Collections
-* Audio integration
-* Show programming
-* MIDI mapping
-* Professional workflow design
+### Hardware Controllers
 
----
-
-### Freestyler
-
-Study of Freestyler DMX software.
-
-Topics include:
-
-* Interface structure
-* Fixture profiles
-* Cue programming
-* Effect generation
-* Live operation
-* Workflow comparison with QLC+
-
----
-
-### MIDI Control
-
-Using MIDI devices as lighting controllers.
-
-Topics include:
-
-* MIDI fundamentals
-* MIDI messages
-* Faders
-* Knobs
-* Buttons
-* MIDI mapping
-* Live performance control
-* Hybrid MIDI-DMX workflows
-
----
-
-### Controller Comparison
-
-Comparison between different lighting control approaches.
-
-Topics include:
+Examples:
 
 * DMX192 controllers
-* Software controllers
-* MIDI controllers
-* Hybrid systems
-* Advantages and disadvantages
-* Workflow analysis
-* Scalability
-* Creative flexibility
+* standalone DMX consoles
+* physical playback systems
 
----
+Topics may include:
+
+* fixture assignment
+* scene programming
+* bank organization
+* chase programming
+* live playback techniques
+
+### Software Controllers
+
+Examples:
+
+* QLC+
+* Freestyler
+* future software platforms
+
+Topics may include:
+
+* fixture libraries
+* virtual consoles
+* functions
+* scenes
+* chasers
+* cue systems
+* show programming
+
+### MIDI Integration
+
+Topics may include:
+
+* MIDI fundamentals
+* controller mapping
+* faders
+* knobs
+* buttons
+* live performance workflows
+* hybrid MIDI-DMX systems
+
+### Workflow Design
+
+Topics may include:
+
+* programming strategies
+* controller comparisons
+* system organization
+* scalability
+* efficiency
+* performance preparation
 
 ## Control Philosophy
 
 A central idea throughout this section is that lighting control should remain expressive.
 
-While automation can simplify operation, manual control often provides greater responsiveness, musicality and creative freedom.
+Technology should not only automate lighting behavior but also provide opportunities for creative interaction.
 
-For this reason, Lightning-Control-Lab explores both programmed automation and real-time performance techniques.
+For this reason, Lightning-Control-Lab explores both:
 
-The objective is not only to trigger lighting effects, but to develop the ability to perform light as a creative medium.
+* programmed automation
+* real-time manual operation
 
----
+The objective is not simply to trigger effects, but to develop the ability to perform light as a creative medium.
 
-## Relationship to the Rest of Lightning-Control-Lab
+## Role Within Lightning-Control-Lab
 
-Foundations explains how lighting systems function.
+Lighting Control serves as the operational layer of the system.
 
-Lighting-Control explores how those systems are operated.
+It transforms technical concepts into practical control methods.
 
-Show-Design focuses on the structure and composition of lighting shows.
+This section answers the question:
 
-Atmospheres studies the emotional impact of lighting.
+**How do I operate and perform the lighting system?**
 
-Music-And-Lighting explores synchronization between sound and light.
+It receives knowledge from:
 
-Projects contains complete implementations and show concepts.
+* Foundations
 
-Experiments documents testing, discoveries and workflow exploration.
+and provides operational tools for:
 
-Learning-Log records personal progress throughout the learning process.
+* Experiments
+* Atmospheres
+* Performance Systems
 
-Assets stores manuals, diagrams, screenshots and reference materials.
+## Relationship to Other Sections
 
-Together, these sections connect technical knowledge with practical control and creative execution.
+* Foundations explains how lighting systems function.
+* Lighting Control explains how lighting systems are operated.
+* Show Design explains why specific visual decisions are made.
+* Lighting Translation Lab defines how music becomes lighting behavior.
+* Experiments test lighting behaviors and control strategies.
+* Atmospheres organize those behaviors into emotional systems.
+* Performance Systems integrate all layers into complete executions.
+* Learning Log documents discoveries, lessons and refinement over time.
+
+Together, these sections transform technical knowledge into controllable, repeatable and expressive lighting systems.
+
+## Long-Term Goal
+
+The long-term objective of this section is to develop efficient and flexible lighting control workflows that support both experimentation and live performance.
+
+Over time, this section will document the evolution from basic DMX controllers to more advanced software-based, MIDI-integrated and performance-oriented control systems.
+
 
