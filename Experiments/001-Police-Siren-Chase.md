@@ -100,7 +100,7 @@ Demo
 
 police-siren-v1.gif
 
-Variant B — Pulsing Headlights
+## Variant B — Pulsing Headlights
 
 Concept
 
@@ -124,7 +124,7 @@ Demo
 
 police-siren-v2.gif
 
-Variant C — Emergency Response
+## Variant C — Emergency Response
 
 Concept
 
