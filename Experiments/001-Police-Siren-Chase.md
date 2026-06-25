@@ -85,115 +85,100 @@ This section defines a set of behavioral states used to simulate how a lighting 
 
 These states are experimental and may later be refined, merged or translated into Atmospheres or Performance Systems.
 
-## State 01 — Idle Surveillance (Prototype Behavior)
-
+State 01 — Idle Surveillance
 Concept
 
-Simulates a patrol vehicle in passive surveillance mode.
+Represents a police vehicle observing its surroundings without immediate urgency.
 
-PAR RGB (Headlights Layer)
-White: 20–40% intensity
-Slow fade in/out (2–4s)
-No strobe
-Mini Spider (Emergency Layer)
-Red ↔ Blue: very slow alternation (2–3s)
-Tilt range: minimal (±10–20°)
-Movement speed: slow easing
+Visual Behavior
+Soft white presence suggesting vehicle headlights.
+Slow and deliberate red-blue alternation.
+Minimal movement.
+Stable and controlled visual activity.
 Perceptual Goal
 Presence
+Authority
 Spatial control
-Silent surveillance
-Usage
-Intro sections
-Low-energy breakdowns
+Silent observation
+Typical Usage
+Introductions
+Low-energy passages
 Narrative transitions
-
-## State 02 — Active Patrol (Prototype Behavior)
-
+State 02 — Active Patrol
 Concept
 
-The vehicle is in motion, actively scanning its environment.
+Represents a vehicle actively moving through an environment while maintaining situational awareness.
 
-PAR RGB
-White: 40–70% intensity
-Soft rhythmic pulsing (beat optional)
-Mini Spider
-Red ↔ Blue: medium speed (800ms–1.2s)
-Tilt range: medium sweep (±40–70°)
-Movement: left → right scanning behavior
+Visual Behavior
+Stronger white presence.
+More noticeable red-blue alternation.
+Continuous scanning movement.
+Moderate visual activity.
 Perceptual Goal
-Continuous motion
-Sustained attention
+Motion
+Attention
+Anticipation
 Controlled energy
-Usage
+Typical Usage
 Verses
-Grooves
+Groove sections
 Early build-ups
-
-## State 03 — Emergency Response (Prototype Behavior)
-
+State 03 — Emergency Response
 Concept
 
-Simulates active emergency response or pursuit.
+Represents an active emergency situation requiring immediate response.
 
-PAR RGB
-White: fast strobe (100–200ms bursts)
-Optional blackout gaps
-Mini Spider
-Red ↔ Blue: fast alternation (200–500ms)
-Tilt range: full (0–150°)
-Movement: aggressive oscillation
+Visual Behavior
+Intense white flashes.
+Rapid red-blue alternation.
+Aggressive movement patterns.
+High visual density.
 Perceptual Goal
-High tension
-Chaos simulation
-Maximum intensity
-Usage
+Urgency
+Tension
+Chaos
+Maximum energy
+Typical Usage
 Drops
 Choruses
 Climactic moments
-
-## State 04 — (Prototype Behavior)
-
+State 04 — Intercept
 Concept
 
-Represents target acquisition or controlled interception.
+Represents a vehicle focusing on a specific target or location.
 
-PAR RGB
-White: focused beam (60–90%)
-Short pulses (non-strobe)
-Mini Spider
-Red ↔ Blue: medium-fast (500–800ms)
-Tilt: gradually narrows toward center
-Movement: convergence behavior
+Visual Behavior
+Concentrated white output.
+Controlled pulse patterns.
+Movement gradually converging toward a focal area.
+Increased visual precision.
 Perceptual Goal
-Control
 Focus
+Control
 Target acquisition
-Usage
+Escalating tension
+Typical Usage
 Pre-drop sections
-Tension builds
-Transition moments
-
-## State 05 — (Prototype Behavior)
-
+Build-ups
+Transitional moments
+State 05 — Aftermath
 Concept
 
-Represents aftermath and dissipation of energy.
+Represents the reduction of activity following a high-intensity event.
 
-PAR RGB
-White: low intensity (10–30%)
-Slow fades
-Mini Spider
-Red/Blue: slow or desynchronized alternation
-Tilt: reduced motion or drift behavior
-Occasional freeze frames
+Visual Behavior
+Reduced white presence.
+Slower color alternation.
+Decreasing movement activity.
+Occasional moments of stillness.
 Perceptual Goal
 Resolution
-Emotional decay
+Emotional release
 Spatial emptiness
-Usage
+Recovery
+Typical Usage
 Outros
-Emotional breakdowns
+Breakdowns
 Long transitions
 
 ## Hypothesis
