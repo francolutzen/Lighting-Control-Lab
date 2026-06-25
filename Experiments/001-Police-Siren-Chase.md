@@ -1,5 +1,9 @@
 # Experiment 001 — Police Siren Chase
 
+✓ DMX192 Tested
+◻ QLC+ Recreation
+◻ MIDI Integration
+
 ## Objective
 
 Create a police vehicle lighting effect using:
