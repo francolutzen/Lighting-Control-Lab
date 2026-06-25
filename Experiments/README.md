@@ -39,6 +39,22 @@ Most experiments follow a simple process:
 
 The goal is not to create perfect shows, but to understand how different lighting decisions affect the final visual result.
 
+## Current Development Environment
+
+At the current stage of Lightning-Control-Lab, most experiments are designed, programmed and tested using a DMX192 hardware controller.
+
+This approach allows practical exploration of scenes, banks, chases, timing variations and manual live operation using the equipment currently available.
+
+Many of the experiments documented in this section are intentionally designed to be platform-independent. While their initial implementation may be created using a DMX192 controller, the underlying concepts, behavioral states and design principles are intended to remain applicable across different lighting control systems.
+
+As the laboratory evolves, these experiments will progressively be recreated, expanded and refined using software-based control environments such as QLC+, MIDI controllers and more advanced programming workflows.
+
+At present, demonstrations of software-controlled implementations cannot yet be documented because a USB-DMX interface is not available in the current setup.
+
+For this reason, some experiments may initially contain documentation, diagrams, state systems, programming concepts and hardware-controller demonstrations before equivalent QLC+ implementations are developed and tested.
+
+This repository documents both the learning process and the gradual evolution of the lighting system itself.
+
 ## Examples of Experiments
 
 Examples may include:
