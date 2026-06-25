@@ -79,71 +79,154 @@ Together, these layers create a more recognizable and immersive effect than usin
 
 `police-siren-demo.gif`
 
-## Experimental Behavioral System (Prototype Model)
+# Experimental Behavioral System (Prototype Model)
 
-This section defines a set of behavioral states used to simulate how a lighting system might respond dynamically in a real performance context.
+This section defines a set of conceptual behaviors intended to explore how the Police Siren effect could evolve during different moments of a performance.
 
-These states are experimental and may later be refined, merged or translated into Atmospheres or Performance Systems.
+These states do not represent exact programming parameters.
 
-State 01 — Idle Surveillance
-Concept
+Instead, they describe visual intentions, behavioral characteristics and perceptual objectives that may later be implemented using DMX controllers, QLC+, MIDI workflows or other lighting control systems.
+
+---
+
+## State 01 — Idle Surveillance
+
+### Concept
 
 Represents a police vehicle observing its surroundings without immediate urgency.
 
-Visual Behavior
-Soft white presence suggesting vehicle headlights.
-Slow and deliberate red-blue alternation.
-Minimal movement.
-Stable and controlled visual activity.
-Perceptual Goal
-Presence
-Authority
-Spatial control
-Silent observation
-Typical Usage
-Introductions
-Low-energy passages
-Narrative transitions
-State 02 — Active Patrol
-Concept
+### Visual Behavior
+
+* Soft white presence suggesting vehicle headlights.
+* Slow and deliberate red-blue alternation.
+* Minimal movement.
+* Stable and controlled visual activity.
+
+### Perceptual Goal
+
+* Presence
+* Authority
+* Spatial control
+* Silent observation
+
+### Typical Usage
+
+* Introductions
+* Low-energy passages
+* Narrative transitions
+
+---
+
+## State 02 — Active Patrol
+
+### Concept
 
 Represents a vehicle actively moving through an environment while maintaining situational awareness.
 
-Visual Behavior
-Stronger white presence.
-More noticeable red-blue alternation.
-Continuous scanning movement.
-Moderate visual activity.
-Perceptual Goal
-Motion
-Attention
-Anticipation
-Controlled energy
-Typical Usage
-Verses
-Groove sections
-Early build-ups
-State 03 — Emergency Response
-Concept
+### Visual Behavior
+
+* Stronger white presence.
+* More noticeable red-blue alternation.
+* Continuous scanning movement.
+* Moderate visual activity.
+
+### Perceptual Goal
+
+* Motion
+* Attention
+* Anticipation
+* Controlled energy
+
+### Typical Usage
+
+* Verses
+* Groove sections
+* Early build-ups
+
+---
+
+## State 03 — Emergency Response
+
+### Concept
 
 Represents an active emergency situation requiring immediate response.
 
-Visual Behavior
-Intense white flashes.
-Rapid red-blue alternation.
-Aggressive movement patterns.
-High visual density.
-Perceptual Goal
-Urgency
-Tension
-Chaos
-Maximum energy
-Typical Usage
-Drops
-Choruses
-Climactic moments
-State 04 — Intercept
-Concept
+### Visual Behavior
+
+* Intense white flashes.
+* Rapid red-blue alternation.
+* Aggressive movement patterns.
+* High visual density.
+
+### Perceptual Goal
+
+* Urgency
+* Tension
+* Chaos
+* Maximum energy
+
+### Typical Usage
+
+* Drops
+* Choruses
+* Climactic moments
+
+---
+
+## State 04 — Intercept
+
+### Concept
+
+Represents a vehicle focusing on a specific target or location.
+
+### Visual Behavior
+
+* Concentrated white output.
+* Controlled pulse patterns.
+* Movement gradually converging toward a focal area.
+* Increased visual precision.
+
+### Perceptual Goal
+
+* Focus
+* Control
+* Target acquisition
+* Escalating tension
+
+### Typical Usage
+
+* Pre-drop sections
+* Build-ups
+* Transitional moments
+
+---
+
+## State 05 — Aftermath
+
+### Concept
+
+Represents the reduction of activity following a high-intensity event.
+
+### Visual Behavior
+
+* Reduced white presence.
+* Slower color alternation.
+* Decreasing movement activity.
+* Occasional moments of stillness.
+
+### Perceptual Goal
+
+* Resolution
+* Emotional release
+* Spatial emptiness
+* Recovery
+
+### Typical Usage
+
+* Outros
+* Breakdowns
+* Long transitions
+
 
 Represents a vehicle focusing on a specific target or location.
 
