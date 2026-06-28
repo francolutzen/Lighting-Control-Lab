@@ -12,13 +12,13 @@ The objective is to explore how warm and highly saturated colors can generate fe
 
 ## Inspiration
 
-<img width="800" height="410" alt="e440b0c0e5b75f0ff6431ca88ddede41" src="https://github.com/user-attachments/assets/93211b56-0f3c-4409-9e5c-3e51405e05c3" />
-
 This experiment is inspired by **Holi**, the traditional Hindu Festival of Colors celebrated each spring.
 
 During Holi, participants throw brightly colored powders into the air, transforming public spaces into dynamic environments filled with color, movement and shared celebration.
 
 Rather than reproducing the event literally, this experiment translates its visual language into a lighting composition using RGB fixtures.
+
+<img width="800" height="410" alt="e440b0c0e5b75f0ff6431ca88ddede41" src="https://github.com/user-attachments/assets/b3a887c4-e9f2-42e1-bdb1-95d060a60076" />
 
 Reference concepts include:
 
