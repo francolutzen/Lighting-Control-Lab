@@ -32,7 +32,7 @@ Reference concepts include:
 
 **Reference Image**
 
-<img width="1400" height="788" alt="bandera-de-brasil-og" src="https://github.com/user-attachments/assets/5397a7ce-7ab3-4c22-a910-3f28fe436b90" />
+<img width="946" height="438" alt="Gemini_Generated_Image_kjlk6tkjlk6tkjlk" src="https://github.com/user-attachments/assets/ee222bc8-2f79-4234-a73a-9c33f56f3d49" />
 
 ---
 
