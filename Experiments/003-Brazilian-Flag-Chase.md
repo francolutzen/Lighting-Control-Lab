@@ -18,9 +18,9 @@ The experiment also explores the use of **white flashes** as visual separators b
 
 This experiment is inspired by the visual identity of the Brazilian flag and the energetic atmosphere commonly found in Brazilian music festivals, football celebrations and carnival performances.
 
-<img width="946" height="438" alt="Gemini_Generated_Image_kjlk6tkjlk6tkjlk" src="https://github.com/user-attachments/assets/efb1f6e3-af93-47ec-9fad-61288760532b" />
-
 Rather than treating the flag as a static symbol, the objective is to reinterpret its colors through movement, rhythm and lighting dynamics.
+
+<img width="946" height="438" alt="Gemini_Generated_Image_kjlk6tkjlk6tkjlk" src="https://github.com/user-attachments/assets/efb1f6e3-af93-47ec-9fad-61288760532b" />
 
 Reference concepts include:
 
