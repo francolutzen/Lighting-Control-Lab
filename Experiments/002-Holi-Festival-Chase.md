@@ -1,6 +1,12 @@
 # Experiment 002 — Holi Festival Color Chase
 
-✓ DMX192 Tested ⬜ QLC+ Recreation ⬜ MIDI Integration
+✓ DMX192
+✓ Personal Home Setup
+⬜ QLC+
+⬜ MIDI Controller
+⬜ USB-DMX Interface
+⬜ Professional Stage Recreation
+
 
 ---
 
