@@ -33,7 +33,7 @@ The effect is specifically intended for musical moments where lyrics make direct
 
 Reference Image:
 
-<img width="1134" height="628" alt="luces-coche-policia-luces-luces-intermitentes-coches-sheriff-seguridad-luz-sirena-emergencia-e-ilustracion-transporte-seguro_102902-1454" src="https://github.com/user-attachments/assets/b8d0ec5a-37f3-45d4-bdc6-d1b49f81396d" />
+<img width="1258" height="528" alt="Gemini_Generated_Image_aclb6raclb6raclb (1)" src="https://github.com/user-attachments/assets/cc1823b1-28af-4299-beb3-0d6b359b8daf" />
 
 ---
 
