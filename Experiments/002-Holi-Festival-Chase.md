@@ -22,7 +22,7 @@ Instead of recreating the event itself, this experiment translates its visual la
 
 Reference Image
 
-`Gemini_Generated_Image_c9sungc9sungc9su.png`
+<img width="1273" height="576" alt="Gemini_Generated_Image_c9sungc9sungc9su (1)" src="https://github.com/user-attachments/assets/27fddcc8-cdeb-4dd7-b9ce-643a8b8633cf" />
 
 Reference concepts include:
 
