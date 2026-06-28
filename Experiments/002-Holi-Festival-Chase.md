@@ -20,9 +20,10 @@ During Holi, participants throw brightly colored powders into the air, transform
 
 Instead of recreating the event itself, this experiment translates its visual language into a stage lighting concept.
 
-Reference Image
+Reference Image:
 
 <img width="1273" height="576" alt="Gemini_Generated_Image_c9sungc9sungc9su (1)" src="https://github.com/user-attachments/assets/27fddcc8-cdeb-4dd7-b9ce-643a8b8633cf" />
+
 
 Reference concepts include:
 
