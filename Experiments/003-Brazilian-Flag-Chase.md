@@ -4,7 +4,7 @@
 
 ---
 
-# Objective
+## Objective
 
 Create a lighting effect inspired by the colors of the Brazilian flag to explore how national color identities can be translated into stage lighting.
 
@@ -14,7 +14,7 @@ The experiment also explores the use of **white flashes** as visual separators b
 
 ---
 
-# Inspiration
+## Inspiration
 
 This experiment is inspired by the visual identity of the Brazilian flag and the energetic atmosphere commonly found in Brazilian music festivals, football celebrations and carnival performances.
 
