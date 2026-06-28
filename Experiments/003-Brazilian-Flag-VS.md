@@ -1,4 +1,4 @@
-# Experiment 003 — Brazilian Flag Color Chase
+# Experiment 003 — Brazilian Flag Visual System
 
 ✓ DMX192
 ⬜ Personal Home Setup
@@ -6,7 +6,6 @@
 ⬜ MIDI Controller
 ⬜ USB-DMX Interface
 ⬜ Professional Stage Recreation
-
 
 ---
 
