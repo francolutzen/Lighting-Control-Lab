@@ -1,6 +1,11 @@
 # Experiment 001 — Police Siren Chase
 
-✓ DMX192 Tested ⬜ QLC+ Recreation ⬜ MIDI Integration
+✓ DMX192
+✓ Personal Home Setup
+⬜ QLC+
+⬜ MIDI Controller
+⬜ USB-DMX Interface
+⬜ Professional Stage Recreation
 
 ---
 
