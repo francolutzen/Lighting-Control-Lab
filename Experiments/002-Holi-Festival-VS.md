@@ -1,4 +1,4 @@
-# Experiment 002 — Holi Festival Color Chase
+# Experiment 002 — Holi Festival Visual System
 
 ✓ DMX192
 ⬜ Personal Home Setup
@@ -6,7 +6,6 @@
 ⬜ MIDI Controller
 ⬜ USB-DMX Interface
 ⬜ Professional Stage Recreation
-
 
 ---
 
