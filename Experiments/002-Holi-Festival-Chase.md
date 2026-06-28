@@ -18,7 +18,7 @@ During Holi, participants throw brightly colored powders into the air, transform
 
 Rather than reproducing the event literally, this experiment translates its visual language into a lighting composition using RGB fixtures.
 
-<img width="800" height="410" alt="e440b0c0e5b75f0ff6431ca88ddede41" src="https://github.com/user-attachments/assets/b3a887c4-e9f2-42e1-bdb1-95d060a60076" />
+<img width="1273" height="576" alt="Gemini_Generated_Image_c9sungc9sungc9su (1)" src="https://github.com/user-attachments/assets/62b822c4-6643-4a9a-b485-8c49c40e33cf" />
 
 Reference concepts include:
 
