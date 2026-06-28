@@ -1,73 +1,73 @@
 # Experiment 003 — Brazilian Flag Color Chase
 
-> ✓ DMX192 Tested ⬜ QLC+ Recreation ⬜ MIDI Integration
+✓ DMX192 Tested ⬜ QLC+ Recreation ⬜ MIDI Integration
 
 ---
 
 ## Objective
 
-Create a lighting effect inspired by the colors of the Brazilian flag to explore how national color identities can be translated into stage lighting.
+Create a lighting composition inspired by the colors of the Brazilian flag to explore how national visual identities can be translated into stage lighting.
 
-Rather than reproducing the flag literally, this experiment investigates how **green, yellow and blue** can become a dynamic visual language associated with Brazilian musical culture, particularly genres such as **Funk Brasileiro, Samba, Pagode** and Carnival-inspired performances.
+Rather than reproducing the flag literally, this experiment investigates how green, yellow and blue can become a dynamic visual language associated with Brazilian musical culture, particularly genres such as Funk Brasileiro, Samba, Pagode and Carnival-inspired performances.
 
-The experiment also explores the use of **white flashes** as visual separators between color transitions to improve clarity, increase contrast and modernize the overall appearance of the chase.
+The experiment also explores how color hierarchy, movement and atmospheric depth can reinforce cultural identity while maintaining visual clarity and rhythmic energy.
 
 ---
 
 ## Inspiration
 
-This experiment is inspired by the visual identity of the Brazilian flag and the energetic atmosphere commonly found in Brazilian music festivals, football celebrations and carnival performances.
+This experiment is inspired by the visual identity of the Brazilian flag and the energetic atmosphere commonly found in Brazilian festivals, football celebrations, carnival performances and urban music events.
 
-Rather than treating the flag as a static symbol, the objective is to reinterpret its colors through movement, rhythm and lighting dynamics.
+Instead of treating the flag as a static symbol, the objective is to reinterpret its colors through movement, rhythm and layered lighting design.
 
-<img width="946" height="438" alt="Gemini_Generated_Image_kjlk6tkjlk6tkjlk" src="https://github.com/user-attachments/assets/efb1f6e3-af93-47ec-9fad-61288760532b" />
+*(Insert reference image here)*
 
 Reference concepts include:
 
-- Brazilian Flag
-- Brazilian Carnival
-- Funk Brasileiro
-- Samba
-- National Identity
-- Stadium Celebrations
-- Collective Energy
+* Brazilian Flag
+* Brazilian Carnival
+* Funk Brasileiro
+* Samba
+* Pagode
+* Football Celebrations
+* National Identity
+* Collective Energy
 
 ---
 
-**Controller**
+## Design Concept
 
-- DMX192
+The composition is built using four complementary visual layers.
 
----
+### Layer 1 — National Color Atmosphere
 
-# Design Concept
+Green, yellow and blue establish the dominant visual identity.
 
-The atmosphere is built using four complementary visual layers.
+Rather than displaying all colors equally at every moment, the composition continuously shifts visual dominance between them, allowing each color to become the primary element before gradually yielding to another.
 
----
-
-## Layer 1 — National Color Palette
-
-The two RGB PAR fixtures generate the dominant colors of the Brazilian flag.
-
-Primary colors:
-
-- Green
-- Yellow
-- Blue
-
-Rather than mixing every color simultaneously, the chase alternates between them while maintaining high saturation and strong visual separation.
+This creates movement without abandoning the recognizable Brazilian color palette.
 
 ---
 
-## Layer 2 — White Accent Layer
+### Layer 2 — Kinetic Color Beams
 
-Unlike **Experiment 002 (Holi Festival)**, where white primarily provides movement, this experiment assigns white a structural visual role.
+Moving beams project predominantly green and blue across the performance space.
 
-Short white flashes are inserted between major color transitions.
+Instead of acting as neutral movement effects, the beams become active color elements that continuously reshape the atmosphere.
+
+Crossing movements, sweeping patterns and alternating directions reinforce the rhythmic character commonly associated with Brazilian music.
+
+---
+
+### Layer 3 — White Accent Layer
+
+Short cold-white flashes are introduced selectively between major color transitions.
+
+Rather than becoming a dominant color, white functions as a visual separator that briefly resets the viewer's perception before introducing the next primary color.
 
 Example:
 
+```
 Green
 
 ↓
@@ -85,84 +85,78 @@ White Flash
 ↓
 
 Blue
+```
 
-The objective is to visually reset the audience before introducing the next dominant color.
-
-This reduces unwanted color blending and produces cleaner, more modern transitions.
-
----
-
-## Layer 3 — Moving Energy
-
-The two LM30A Mini Spider fixtures operate primarily in white.
-
-Rather than introducing additional colors, they provide:
-
-- Spatial movement
-- Visual rhythm
-- Dynamic energy
-
-Crossing beams reinforce the energetic character commonly associated with Brazilian dance music.
+This approach increases contrast while reducing unwanted color blending during fast transitions.
 
 ---
 
-## Layer 4 — Atmospheric Volume
+### Layer 4 — Atmospheric Volume
 
-A fog machine introduces atmospheric volume.
+Atmospheric haze or fog transforms colored beams into volumetric elements.
 
-Rather than simply increasing beam visibility, the suspended particles transform the moving white beams into volumetric elements that occupy physical space.
+Instead of simply increasing beam visibility, suspended particles allow colors to occupy physical space, producing a more immersive interpretation of the Brazilian visual identity.
 
-This increases immersion while enhancing separation between movement and color.
-
----
-
-# Design Considerations
-
-## Color Saturation
-
-The primary colors should remain close to **100% saturation** whenever possible.
-
-Strong saturation reinforces the visual identity of the Brazilian flag while preserving clarity throughout the chase.
+As atmospheric density increases, the distinction between individual beams gradually dissolves into a cohesive environment of moving color.
 
 ---
 
-## Color Harmony
+## Design Considerations
 
-The Brazilian flag naturally combines two different color relationships.
+### Color Saturation
+
+Green, yellow and blue should remain close to maximum saturation whenever possible.
+
+Strong saturation reinforces the visual identity of the Brazilian flag while preserving color recognition during energetic musical passages.
+
+---
+
+### Color Hierarchy
+
+Each color performs a distinct visual role.
+
+* Yellow establishes the overall atmosphere.
+* Green communicates vitality and celebration.
+* Blue provides contrast and spatial depth.
+* White separates visual phrases.
+
+Assigning different functions to each color creates a more intentional composition than treating every color equally.
+
+---
+
+### Color Relationships
+
+The Brazilian palette naturally combines two complementary relationships.
 
 **Green + Yellow**
 
-- Analogous colors
-- Harmony
-- Natural continuity
+* Analogous colors
+* Visual continuity
+* Natural warmth
 
 **Blue + Yellow**
 
-- Strong visual contrast
-- Higher perceptual impact
+* High contrast
+* Strong perceptual separation
+* Increased visual impact
 
-This combination creates an effective balance between harmony and contrast.
+Balancing harmony and contrast helps maintain both coherence and excitement.
 
 ---
 
-## White Separation
+### White Separation
 
-Without separation:
+Direct transitions such as
 
-Green
+```
+Green → Yellow → Blue
+```
 
-↓
+may appear visually blended during rapid playback.
 
-Yellow
+Introducing short white flashes creates perceptual separation.
 
-↓
-
-Blue
-
-may appear visually blended.
-
-With white separators:
-
+```
 Green
 
 ↓
@@ -180,28 +174,37 @@ White
 ↓
 
 Blue
+```
 
-each color gains greater visual definition.
-
-The white flash functions as a visual "breathing space" before the next dominant color appears.
-
----
-
-## Atmospheric Depth
-
-Fog allows the white beams to occupy physical space while the PAR fixtures establish the dominant color atmosphere.
-
-Separating movement, color and atmospheric volume prevents visual clutter and creates a cleaner composition.
+The white flash functions as a visual breathing space that restores clarity before the next dominant color appears.
 
 ---
 
-# Simple Demonstration
+### Movement Strategy
+
+Movement should reinforce rhythm rather than continuously attract attention.
+
+Sweeping beams, crossing patterns and alternating directions create visual momentum without overwhelming the color composition.
+
+Movement follows the music instead of competing with it.
+
+---
+
+### Atmospheric Depth
+
+When haze or fog is present, moving beams become part of the surrounding environment rather than isolated lighting effects.
+
+The atmosphere itself becomes illuminated, increasing immersion and reinforcing the sensation of being inside the composition.
+
+---
+
+## Simple Demonstration
 
 `brazil-flag-demo.gif`
 
 ---
 
-# Experimental Behavioral System (Prototype)
+## Experimental Behavioral System (Prototype)
 
 This section defines several behavioral variations of the same visual concept.
 
@@ -209,214 +212,192 @@ These prototype states may later evolve into complete Atmospheres or Performance
 
 ---
 
-## State 01 — National Identity *(Prototype Behavior)*
+### State 01 — National Identity (Prototype Behavior)
 
-### Concept
+#### Concept
 
-A calm presentation of the Brazilian color palette.
+A calm presentation of the Brazilian color palette emphasizing recognition and symbolism.
 
-### PAR Fixtures
+#### Visual Behavior
 
-- Green
-- Yellow
-- Long fades
-- Medium intensity
+* Long color transitions
+* Moderate saturation changes
+* Slow beam movement
+* Minimal visual complexity
 
-### Mini Spiders
+#### Perceptual Goal
 
-- White only
-- Slow sweeping movement
+* Recognition
+* Identity
+* Pride
+* Presence
 
-### Perceptual Goal
+#### Usage Context
 
-- Recognition
-- Identity
-- Pride
-
-### Usage Context
-
-- Opening ceremonies
-- Introductions
-- National-themed events
+* Opening ceremonies
+* Introductions
+* National-themed events
 
 ---
 
-## State 02 — Funk Groove *(Prototype Behavior)*
+### State 02 — Funk Groove (Prototype Behavior)
 
-### Concept
+#### Concept
 
-Movement becomes more rhythmic while color changes increase in frequency.
+Movement becomes rhythmically synchronized with groove-oriented music.
 
-### PAR Fixtures
+#### Visual Behavior
 
-- Green
-- Yellow
-- Blue
-- Medium fade transitions
+* Faster color alternation
+* Crossing beam movements
+* Medium transition speed
+* Increased visual rhythm
 
-### Mini Spiders
+#### Perceptual Goal
 
-- White
-- Medium sweeping speed
-- Crossing beam patterns
+* Dance
+* Movement
+* Urban energy
 
-### Perceptual Goal
+#### Usage Context
 
-- Dance
-- Movement
-- Urban energy
-
-### Usage Context
-
-- Funk Brasileiro
-- Pagode
-- Groove sections
+* Funk Brasileiro
+* Pagode
+* Groove sections
 
 ---
 
-## State 03 — Carnival Energy *(Prototype Behavior)*
+### State 03 — Carnival Energy (Prototype Behavior)
 
-### Concept
+#### Concept
 
 Maximum visual intensity inspired by Brazilian Carnival.
 
-### PAR Fixtures
+#### Visual Behavior
 
-- Rapid Green ↔ Yellow ↔ Blue transitions
-- White separator flashes
+* Rapid Green ↔ Yellow ↔ Blue transitions
+* Frequent white separator flashes
+* Large sweeping movements
+* High atmospheric density
 
-### Mini Spiders
+#### Perceptual Goal
 
-- White only
-- Fast sweeping motion
-- Full movement range
+* Celebration
+* Collective excitement
+* Visual overload
+* Festival atmosphere
 
-### Fog Machine
+#### Usage Context
 
-- Continuous haze
-
-### Perceptual Goal
-
-- Celebration
-- Collective energy
-- Excitement
-
-### Usage Context
-
-- Musical drops
-- Festival moments
-- Carnival performances
+* Musical drops
+* Carnival performances
+* Festival highlights
 
 ---
 
-## State 04 — Stadium Celebration *(Prototype Behavior)*
+### State 04 — Stadium Celebration (Prototype Behavior)
 
-### Concept
+#### Concept
 
-Inspired by football celebrations following a goal.
+Inspired by football celebrations immediately following a goal.
 
-### PAR Fixtures
+#### Visual Behavior
 
-- Dominant Green
-- Yellow accents
-- Blue pulses
+* Dominant green atmosphere
+* Yellow accents
+* Blue rhythmic pulses
+* Fast upward movements
+* Short white flashes
 
-### Mini Spiders
+#### Perceptual Goal
 
-- White
-- Fast upward movements
-- Short white flashes
+* Victory
+* Unity
+* Euphoria
 
-### Perceptual Goal
+#### Usage Context
 
-- Victory
-- Unity
-- Euphoria
-
-### Usage Context
-
-- Sports-themed performances
-- Audience interaction
-- Festival finales
+* Sports-themed performances
+* Audience interaction
+* Festival finales
 
 ---
 
-## State 05 — Sunset Samba *(Prototype Behavior)*
+### State 05 — Sunset Samba (Prototype Behavior)
 
-### Concept
+#### Concept
 
-A slower interpretation emphasizing warmth and relaxation.
+A slower interpretation emphasizing warmth and emotional closure.
 
-### PAR Fixtures
+#### Visual Behavior
 
-- Warm Yellow
-- Soft Green
-- Long fades
+* Long yellow transitions
+* Soft green accents
+* Reduced movement
+* Gentle spatial drift
 
-### Mini Spiders
+#### Perceptual Goal
 
-- White only
-- Slow drifting movement
+* Comfort
+* Reflection
+* Emotional closure
 
-### Perceptual Goal
+#### Usage Context
 
-- Comfort
-- Reflection
-- Emotional closure
-
-### Usage Context
-
-- Outros
-- Sunset sessions
-- Ambient transitions
+* Outros
+* Sunset sessions
+* Ambient transitions
 
 ---
 
-# Hypothesis
+## Hypothesis
 
-Using the Brazilian national color palette while separating major transitions with short white flashes will produce a cleaner and more recognizable visual identity than relying solely on direct Green–Yellow–Blue transitions.
+Combining the Brazilian national color palette with layered movement, atmospheric depth and white transitional accents will produce a stronger perception of Brazilian cultural identity than using static color changes alone.
 
-The experiment also explores whether audiences instinctively associate these colors with Brazilian musical culture even without explicit references to the flag.
+The experiment also explores whether audiences instinctively associate this visual language with Brazilian music even without explicit references to the national flag.
 
 ---
 
-# Observations
+## Observations
 
 Record observations after testing.
 
 Possible aspects to evaluate include:
 
-- Recognition of the Brazilian color palette.
-- Smoothness of transitions.
-- Effectiveness of white separator flashes.
-- Balance between color and movement.
-- Audience association with Brazilian music.
-- Visual impact created by fog.
+* Recognition of the Brazilian color palette.
+* Effectiveness of white separator flashes.
+* Balance between color and movement.
+* Perceived connection with Brazilian music.
+* Influence of atmospheric haze.
+* Overall visual coherence.
+* Audience engagement.
 
 ---
 
-# Potential Applications
+## Potential Applications
 
 This experiment may be suitable for:
 
-- Funk Brasileiro
-- Samba
-- Pagode
-- Brazilian Carnival
-- Football celebrations
-- Brazilian-themed events
-- Latin festivals
-- Outdoor performances
-- Cultural shows
+* Funk Brasileiro
+* Samba
+* Pagode
+* Brazilian Carnival
+* Football celebrations
+* Brazilian-themed events
+* Latin music festivals
+* Outdoor performances
+* Cultural shows
+* Festival openings
 
 ---
 
-# Future Improvements
+## Future Improvements
 
-- Synchronize transitions with percussion patterns.
-- Experiment with different white flash durations.
-- Compare static versus moving PAR fixtures.
-- Develop a QLC+ timeline version.
-- Integrate MIDI control.
-- Evaluate audience recognition of the Brazilian visual identity.
-- Expand the experiment using additional moving fixtures.
+* Synchronize transitions with percussion patterns.
+* Explore different movement geometries.
+* Compare long and short white accent flashes.
+* Create software-based implementations using QLC+.
+* Integrate MIDI performance control.
+* Evaluate audience recognition of Brazilian visual identity.
+* Expand the concept using additional fixture categories.
+* Develop alternative interpretations for slower Brazilian genres.
