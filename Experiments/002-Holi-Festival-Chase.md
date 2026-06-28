@@ -1,12 +1,14 @@
 # Experiment 002 — Holi Festival Color Chase
 
-> ✓ DMX192 Tested ◻ QLC+ Recreation ◻ MIDI Integration
+✓ DMX192 Tested ⬜ QLC+ Recreation ⬜ MIDI Integration
+
+---
 
 ## Objective
 
-Create a lighting effect inspired by the vibrant color palette and celebratory atmosphere of the Holi Festival.
+Create a lighting effect inspired by the vibrant visual identity of the Holi Festival to explore how highly saturated colors, movement and atmospheric lighting can generate feelings of celebration, openness and collective joy.
 
-The objective is to explore how warm and highly saturated colors can generate feelings of celebration, openness, social interaction and collective joy, while using moving white beams as a complementary visual layer to increase spatial depth.
+Rather than reproducing the festival literally, this experiment investigates how lighting can recreate the perception of airborne colored powder through the interaction of saturated washes, moving beams and atmospheric haze.
 
 ---
 
@@ -14,120 +16,135 @@ The objective is to explore how warm and highly saturated colors can generate fe
 
 This experiment is inspired by **Holi**, the traditional Hindu Festival of Colors celebrated each spring.
 
-During Holi, participants throw brightly colored powders into the air, transforming public spaces into dynamic environments filled with color, movement and shared celebration.
+During Holi, participants throw brightly colored powders into the air, transforming streets into immersive environments filled with floating color, movement and shared celebration.
 
-Rather than reproducing the event literally, this experiment translates its visual language into a lighting composition using RGB fixtures.
+Instead of recreating the event itself, this experiment translates its visual language into a stage lighting concept.
 
-<img width="1273" height="576" alt="Gemini_Generated_Image_c9sungc9sungc9su (1)" src="https://github.com/user-attachments/assets/62b822c4-6643-4a9a-b485-8c49c40e33cf" />
+Reference Image
+
+`Gemini_Generated_Image_c9sungc9sungc9su.png`
 
 Reference concepts include:
 
-* Holi Festival
-* Colored powder clouds
-* Spring celebration
-* Collective happiness
-* Visual diversity
-* Community participation
-
----
-
-## Equipment
-
-* Fixture 1 → FG-369 RGB PAR
-* Fixture 2 → FG-369 RGB PAR
-* Fixture 3 → LM30A Mini Spider
-* Fixture 4 → LM30A Mini Spider
-* Fixture 5 → Fog Machine
-* Controller → DMX192
+- Holi Festival
+- Colored powder clouds
+- Spring celebration
+- Collective happiness
+- Community participation
+- Celebration through color
+- Immersive environments
 
 ---
 
 ## Design Concept
 
-The effect is built using three complementary visual layers.
+The atmosphere is constructed through several independent visual layers that work together to recreate the sensation of moving inside a cloud of color.
+
+Unlike conventional RGB chases that simply alternate colors, this experiment attempts to generate the illusion that colors occupy physical space.
+
+---
+
+### Layer 1 — Festival Color Palette
+
+The dominant visual layer consists of four highly saturated colors associated with Holi.
+
+Primary palette:
+
+- Yellow
+- Orange
+- Magenta
+- Cyan
+
+Rather than following a predictable sequence around the color wheel, transitions intentionally jump between unexpected colors.
+
+Example:
+
+Yellow
+
+↓
+
+Magenta
+
+↓
+
+Cyan
+
+↓
+
+Orange
+
+↓
+
+Magenta
+
+↓
+
+Yellow
+
+Abrupt changes reinforce the spontaneous and chaotic nature of colored powders being thrown from multiple directions.
+
+---
+
+### Layer 2 — Dynamic White Energy
+
+Moving white beams act as a complementary visual layer.
+
+Unlike the color layer, white is never intended to become the dominant atmosphere.
+
+Instead, it serves to:
+
+- create spatial depth
+- generate movement
+- increase visual rhythm
+- simulate sunlight interacting with suspended particles
+
+Because white does not compete with the festival palette, the saturated colors remain visually dominant while the moving beams add dimensionality.
+
+---
+
+### Layer 3 — Atmospheric Volume
+
+Atmospheric haze or fog is considered an essential component of the experiment.
+
+Rather than simply increasing beam visibility, suspended particles capture and diffuse colored light, creating the illusion of floating clouds of pigment.
+
+As atmospheric density increases, individual beams gradually merge into larger volumes of color, closely resembling the visual experience of Holi celebrations.
+
+---
 
 ## Design Considerations
 
 ### Color Saturation
 
-The selected festival colors should be reproduced at or near **100% saturation** whenever possible.
+Festival colors should remain close to maximum saturation whenever possible.
 
-Highly saturated colors reinforce the vibrant visual identity associated with Holi and maximize contrast between successive color transitions.
+Highly saturated colors strengthen visual identity while maximizing separation between successive transitions.
 
-Pastel variations may be explored in future experiments, but this prototype prioritizes visual impact and immediate color recognition.
+Pastel variations may be explored in future experiments, but this prototype prioritizes immediate recognition and visual impact.
 
 ---
 
 ### Color Transition Logic
 
-Unlike many traditional RGB chases that alternate predictably between complementary colors, this experiment intentionally favors unexpected color relationships.
+Instead of rotating smoothly around the color wheel, transitions intentionally feel unpredictable.
 
-Example sequence:
+The objective is to imitate colored powders appearing simultaneously from different directions rather than orderly programmed lighting.
 
-Yellow → Magenta → Cyan → Orange → Magenta → Yellow
-
-Rather than following a linear progression around the color wheel, abrupt changes between highly saturated colors help recreate the visual unpredictability of colored powders being thrown into the air from multiple directions.
-
-The objective is to generate the impression of spontaneous color bursts instead of orderly color cycling.
-
----
-
-### Atmospheric Volume
-
-The use of haze or fog is considered an essential component of the visual composition.
-
-Rather than serving only to increase beam visibility, the atmospheric particles act as a volumetric surface that captures and diffuses colored light.
-
-This creates the illusion of suspended clouds of color, closely resembling the airborne pigment that characterizes Holi celebrations.
-
-As atmospheric density increases, the separation between individual light beams gradually disappears, allowing the entire performance space to become immersed in color.
+Unexpected transitions generally produce stronger visual excitement than gradual complementary fades.
 
 ---
 
 ### Layer Separation
 
-Each fixture group performs a dedicated visual function.
+Each visual layer performs a specific function.
 
-* RGB PAR fixtures generate the festival color palette.
-* Mini Spider fixtures provide movement using only white light.
-* The fog machine creates atmospheric volume that allows both layers to merge into a single immersive visual experience.
+Festival colors establish the emotional identity.
 
-Separating color, movement and atmospheric volume prevents visual competition between fixtures and produces a cleaner, more intentional lighting composition.
+Moving white beams generate energy and spatial motion.
 
+Atmospheric haze transforms light into volumetric color.
 
-### Layer 1 — Festival Colors
-
-The two RGB PAR fixtures generate the primary color palette of the atmosphere.
-
-Instead of rapidly alternating between colors, they transition smoothly through:
-
-* Yellow
-* Orange
-* Magenta
-* Cyan
-
-These colors were selected because they represent some of the most iconic visual elements associated with Holi while providing a clear and recognizable color identity.
-
-Long fades allow intermediate colors to emerge naturally, creating the impression of colored powders blending together.
-
-### Layer 2 — White Energy
-
-The two LM30A Mini Spider fixtures operate exclusively in white.
-
-Rather than introducing additional colors, they provide movement, spatial depth and visual texture.
-
-Their sweeping beams simulate sunlight passing through airborne colored particles while drawing attention across the performance space.
-
-### Layer 3 — Atmospheric Volume
-
-A fog machine introduces suspended particles into the environment.
-
-Beyond improving beam visibility, the fog is intended to symbolically represent the clouds of colored powder released during Holi celebrations.
-
-The interaction between white moving beams, saturated color washes and atmospheric haze creates a stronger illusion of floating color and increases the perceived depth of the composition.
-
-Together, these three layers separate color, movement and atmospheric volume into independent visual functions, producing a cleaner and more immersive interpretation of the festival.
-
+Separating these responsibilities creates a cleaner composition while preventing excessive visual competition between fixtures.
 
 ---
 
@@ -137,191 +154,198 @@ Together, these three layers separate color, movement and atmospheric volume int
 
 ---
 
-## Experimental Behavioral System (Prototype)
+# Experimental Behavioral System (Prototype)
 
-This section explores several behavioral variations of the same visual concept.
-
----
-
-### State 01 — Sunrise Celebration (Prototype Behavior)
-
-#### Concept
-
-Represents the beginning of the celebration with gentle color transitions and calm movement.
-
-#### PAR Fixtures
-
-* Colors: Yellow → Orange
-* Fade: 3–5 seconds
-* Medium intensity
-
-#### Mini Spiders
-
-* White only
-* Slow sweeping movement
-* Wide beam spacing
-
-#### Perceptual Goal
-
-* Warm welcome
-* Optimism
-* Calm celebration
-
-#### Usage Context
-
-* Show introductions
-* Opening moments
-* Ambient sections
+These behavioral states explore different interpretations of the same visual concept.
 
 ---
 
-### State 02 — Festival Bloom (Prototype Behavior)
+## State 01 — Sunrise Celebration
 
-#### Concept
+### Concept
 
-The celebration becomes more energetic as additional colors appear.
+Represents the calm beginning of the festival before large color explosions occur.
 
-#### PAR Fixtures
+### Festival Colors
 
-* Yellow
-* Orange
-* Magenta
-* Cyan
+- Yellow
+- Orange
+- Long fades
+- Medium intensity
+
+### Movement Layer
+
+- Slow white sweeping beams
+- Wide spacing
+- Gentle movement
+
+### Perceptual Goal
+
+- Warm welcome
+- Optimism
+- Curiosity
+
+### Usage Context
+
+- Introductions
+- Ambient openings
+- Warm-up sections
+
+---
+
+## State 02 — Festival Bloom
+
+### Concept
+
+The celebration expands as more colors begin filling the environment.
+
+### Festival Colors
+
+- Yellow
+- Orange
+- Magenta
+- Cyan
 
 Medium fade transitions.
 
-#### Mini Spiders
+### Movement Layer
 
-* White
-* Medium movement
-* Crossing beam patterns
+- Moderate sweeping speed
+- Crossing beams
+- Increased visual rhythm
 
-#### Perceptual Goal
+### Perceptual Goal
 
-* Social interaction
-* Joy
-* Visual diversity
+- Social interaction
+- Joy
+- Shared celebration
 
-#### Usage Context
+### Usage Context
 
-* Verse sections
-* Dance grooves
-* Festival-themed music
-
----
-
-### State 03 — Color Explosion (Prototype Behavior)
-
-#### Concept
-
-Maximum visual richness inspired by clouds of colored powder filling the air.
-
-#### PAR Fixtures
-
-* Rapid alternation between all four colors
-* Short fade transitions
-
-#### Mini Spiders
-
-* White only
-* Fast sweeping motion
-* Full movement range
-
-#### Perceptual Goal
-
-* Excitement
-* Celebration
-* Collective energy
-
-#### Usage Context
-
-* Musical drops
-* Choruses
-* Climactic moments
+- Verses
+- Dance grooves
+- Festival-themed performances
 
 ---
 
-### State 04 — Floating Colors (Prototype Behavior)
+## State 03 — Color Explosion
 
-#### Concept
+### Concept
 
-Represents colored powder slowly dispersing through the environment.
+Represents the peak moment when clouds of color completely surround the audience.
 
-#### PAR Fixtures
+### Festival Colors
 
-* Long fades
-* Reduced intensity
-* Cyan ↔ Magenta emphasis
+Rapid alternation between all festival colors.
 
-#### Mini Spiders
+### Movement Layer
 
-* White
-* Slow drift movement
-* Minimal acceleration
+- Fast sweeping beams
+- Large movement range
+- Continuous motion
 
-#### Perceptual Goal
+### Atmospheric Layer
 
-* Calmness
-* Immersion
-* Dreamlike atmosphere
+Dense haze.
 
-#### Usage Context
+### Perceptual Goal
 
-* Breakdowns
-* Emotional transitions
-* Cinematic passages
+- Excitement
+- Celebration
+- Collective energy
+
+### Usage Context
+
+- Drops
+- Choruses
+- Climactic moments
 
 ---
 
-### State 05 — Festival Closing (Prototype Behavior)
+## State 04 — Floating Colors
 
-#### Concept
+### Concept
 
-The celebration gradually settles while maintaining traces of color.
+Colored particles slowly disperse after the explosion.
 
-#### PAR Fixtures
+### Festival Colors
 
-* Warm white mixed with soft yellow and orange
-* Very slow fades
+Long fades emphasizing:
 
-#### Mini Spiders
+- Cyan
+- Magenta
 
-* White
-* Minimal movement
-* Occasional pauses
+Reduced overall intensity.
 
-#### Perceptual Goal
+### Movement Layer
 
-* Resolution
-* Satisfaction
-* Emotional closure
+- Slow drifting beams
+- Minimal acceleration
 
-#### Usage Context
+### Perceptual Goal
 
-* Outros
-* Closing scenes
-* End of performances
+- Calmness
+- Immersion
+- Dreamlike atmosphere
+
+### Usage Context
+
+- Breakdowns
+- Cinematic passages
+- Emotional transitions
+
+---
+
+## State 05 — Festival Closing
+
+### Concept
+
+Represents the gradual conclusion of the celebration.
+
+### Festival Colors
+
+Warm yellow and orange dominate while saturation slowly decreases.
+
+### Movement Layer
+
+Minimal motion.
+
+Occasional pauses.
+
+### Perceptual Goal
+
+- Satisfaction
+- Resolution
+- Emotional closure
+
+### Usage Context
+
+- Outros
+- Closing scenes
+- End of performances
 
 ---
 
 ## Hypothesis
 
-Separating color generation, movement generation and atmospheric volume into independent visual layers will create a stronger perception of the Holi Festival than using colored lighting alone.
+Separating color generation, movement generation and atmospheric volume into independent visual layers will create a stronger perception of the Holi Festival than relying on color changes alone.
 
-The experiment also explores whether a simplified palette consisting of yellow, orange, magenta and cyan is sufficient to evoke the visual identity of Holi while maintaining clarity, coherence and strong audience recognition.
+The experiment also explores whether a simplified palette consisting of yellow, orange, magenta and cyan is sufficient for audiences to instinctively associate the atmosphere with Holi-inspired celebrations.
 
+---
 
 ## Observations
 
 Record observations after testing.
 
-Possible aspects to evaluate include:
+Possible evaluation criteria include:
 
-* Smoothness of color transitions.
-* Visual separation between color and movement.
-* Recognition of the Holi-inspired aesthetic.
-* Balance between PAR fixtures and Mini Spider movement.
-* Whether white movement enhances or distracts from the color palette.
+- Recognition of the Holi aesthetic.
+- Smoothness of color transitions.
+- Perceived realism of floating color clouds.
+- Balance between color and movement.
+- Contribution of atmospheric haze.
+- Audience emotional response.
 
 ---
 
@@ -329,26 +353,27 @@ Possible aspects to evaluate include:
 
 This experiment may be suitable for:
 
-* Festival-themed events
-* Spring celebrations
-* EDM
-* House
-* Afro House
-* Organic House
-* Chill Dance
-* Tropical music
-* Sunset sessions
-* Outdoor events
-* Color-themed performances
+- Holi-inspired festivals
+- Spring celebrations
+- EDM
+- House
+- Afro House
+- Organic House
+- Tropical House
+- Chill Dance
+- Outdoor festivals
+- Color-themed performances
+- Sunset events
 
 ---
 
 ## Future Improvements
 
-* Introduce haze to increase beam visibility.
-* Synchronize transitions with musical phrasing.
-* Create QLC+ timeline versions.
-* Experiment with pastel color variations.
-* Compare long and short fade behaviors.
-* Test audience perception of different color sequences.
-* Expand the experiment using additional moving fixtures.
+- Synchronize transitions with musical phrasing.
+- Compare long and short fade behaviors.
+- Explore pastel-based Holi variations.
+- Develop QLC+ timeline implementations.
+- Integrate MIDI performance control.
+- Evaluate audience perception under different haze densities.
+- Expand the concept using additional moving fixtures.
+- Investigate multi-zone color distribution across larger stages.
