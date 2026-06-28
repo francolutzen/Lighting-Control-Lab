@@ -44,6 +44,55 @@ Reference concepts include:
 
 The effect is built using three complementary visual layers.
 
+## Design Considerations
+
+### Color Saturation
+
+The selected festival colors should be reproduced at or near **100% saturation** whenever possible.
+
+Highly saturated colors reinforce the vibrant visual identity associated with Holi and maximize contrast between successive color transitions.
+
+Pastel variations may be explored in future experiments, but this prototype prioritizes visual impact and immediate color recognition.
+
+---
+
+### Color Transition Logic
+
+Unlike many traditional RGB chases that alternate predictably between complementary colors, this experiment intentionally favors unexpected color relationships.
+
+Example sequence:
+
+Yellow → Magenta → Cyan → Orange → Magenta → Yellow
+
+Rather than following a linear progression around the color wheel, abrupt changes between highly saturated colors help recreate the visual unpredictability of colored powders being thrown into the air from multiple directions.
+
+The objective is to generate the impression of spontaneous color bursts instead of orderly color cycling.
+
+---
+
+### Atmospheric Volume
+
+The use of haze or fog is considered an essential component of the visual composition.
+
+Rather than serving only to increase beam visibility, the atmospheric particles act as a volumetric surface that captures and diffuses colored light.
+
+This creates the illusion of suspended clouds of color, closely resembling the airborne pigment that characterizes Holi celebrations.
+
+As atmospheric density increases, the separation between individual light beams gradually disappears, allowing the entire performance space to become immersed in color.
+
+---
+
+### Layer Separation
+
+Each fixture group performs a dedicated visual function.
+
+* RGB PAR fixtures generate the festival color palette.
+* Mini Spider fixtures provide movement using only white light.
+* The fog machine creates atmospheric volume that allows both layers to merge into a single immersive visual experience.
+
+Separating color, movement and atmospheric volume prevents visual competition between fixtures and produces a cleaner, more intentional lighting composition.
+
+
 ### Layer 1 — Festival Colors
 
 The two RGB PAR fixtures generate the primary color palette of the atmosphere.
