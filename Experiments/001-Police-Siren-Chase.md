@@ -1,6 +1,6 @@
 # Experiment 001 — Police Siren Chase
 
-✓ DMX192 Tested
+> ✓ DMX192 Tested
 ◻ QLC+ Recreation
 ◻ MIDI Integration
 
