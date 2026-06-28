@@ -34,14 +34,6 @@ Reference concepts include:
 
 ---
 
-# Equipment
-
-- Fixture 1 → FG-369 RGB PAR
-- Fixture 2 → FG-369 RGB PAR
-- Fixture 3 → LM30A Mini Spider
-- Fixture 4 → LM30A Mini Spider
-- Fixture 5 → Fog Machine
-
 **Controller**
 
 - DMX192
