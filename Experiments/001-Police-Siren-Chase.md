@@ -141,9 +141,18 @@ Different visual states represent different operational situations while preserv
 
 ---
 
-## Simple Demonstration
+## Practical Demonstration
 
-`police-siren-demo.gif`
+The following demonstration represents the current implementation of this concept using the equipment available in my personal laboratory.
+
+Current Setup
+
+- DMX192 Controller
+- 2 LM30A Mini Spider RGBW
+- 2 FG-369 RGB PAR
+- Fog Machine (optional)
+
+Although the hardware is limited, the objective is to validate the core visual concept. Future implementations may use additional fixtures and more advanced control systems.
 
 ---
 
