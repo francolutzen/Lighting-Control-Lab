@@ -32,7 +32,7 @@ Reference concepts include:
 
 **Reference Image**
 
-`brazil-flag-reference.jpg`
+<img width="1400" height="788" alt="bandera-de-brasil-og" src="https://github.com/user-attachments/assets/5397a7ce-7ab3-4c22-a910-3f28fe436b90" />
 
 ---
 
