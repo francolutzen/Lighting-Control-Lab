@@ -1,4 +1,4 @@
-# Experiment 001 — Police Siren Chase
+# Experiment 001 — Police Siren Visual System
 
 ✓ DMX192
 ✓ Personal Home Setup
