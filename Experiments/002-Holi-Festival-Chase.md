@@ -1,5 +1,7 @@
 # Experiment 002 — Holi Festival Color Chase
 
+✓ DMX192 Tested ◻ QLC+ Recreation ◻ MIDI Integration
+
 ## Objective
 
 Create a lighting effect inspired by the vibrant color palette and celebratory atmosphere of the Holi Festival.
