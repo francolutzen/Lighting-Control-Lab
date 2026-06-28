@@ -1,7 +1,7 @@
 # Experiment 001 — Police Siren Visual System
 
 ✓ DMX192
-✓ Personal Home Setup
+⬜ Personal Home Setup
 ⬜ QLC+
 ⬜ MIDI Controller
 ⬜ USB-DMX Interface
