@@ -78,7 +78,7 @@ Core Functions:
 
 -Tactical Asynchronicity (The "Holi Burst"): To maximize collective energy, the system utilizes high-intensity blinders triggered asynchronously.
 
--Dynamic Rhythm: Unlike constant strobe effects, the blinders fire for micro-second bursts ($t \approx 50\text{--}100\text{ ms}$) at irregular intervals of 3 to 6 seconds.
+-Dynamic Rhythm: Unlike constant strobe effects, the blinders fire for micro-second bursts ($t \approx 50\text{--}100\text{ ms}$) at irregular intervals of 1 to 6 seconds.
 
 -Visual Strategy: By avoiding predictable patterns, this "tactical blindness" prevents sensory adaptation. The resulting flashes break the rhythmic loop, creating a high-contrast shock that mirrors the sudden, chaotic joy of a traditional Holi explosion.
 
