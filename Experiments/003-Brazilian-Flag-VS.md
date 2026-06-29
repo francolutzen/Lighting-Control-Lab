@@ -26,6 +26,7 @@ This experiment is inspired by the visual identity of the Brazilian flag and the
 
 Instead of treating the flag as a static symbol, the objective is to reinterpret its colors through movement, rhythm and layered lighting design.
 
+System Design Reference (Ideal State):
 <img width="946" height="438" alt="Gemini_Generated_Image_kjlk6tkjlk6tkjlk" src="https://github.com/user-attachments/assets/7e32ca4f-ccf9-4b53-9a1a-ecfac08b74ec" />
 
 Reference concepts include:
