@@ -71,6 +71,8 @@ This moment is reinforced by synchronized short-duration white flashes that emph
 
 Although this projection layer is not currently implemented, it represents the intended long-term evolution of this visual system as projection mapping becomes integrated into the laboratory.
 
+---
+
 ### Layer 1 — National Color Atmosphere
 
 Green, yellow and blue establish the dominant visual identity.
