@@ -175,42 +175,6 @@ Balancing harmony and contrast helps maintain both coherence and excitement.
 
 ---
 
-### White Separation
-
-Direct transitions such as
-
-```
-Green → Yellow → Blue
-```
-
-may appear visually blended during rapid playback.
-
-Introducing short white flashes creates perceptual separation.
-
-```
-Green
-
-↓
-
-White
-
-↓
-
-Yellow
-
-↓
-
-White
-
-↓
-
-Blue
-```
-
-The white flash functions as a visual breathing space that restores clarity before the next dominant color appears.
-
----
-
 ### Movement Strategy
 
 Movement should reinforce rhythm rather than continuously attract attention.
