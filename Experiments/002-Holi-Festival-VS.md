@@ -74,15 +74,15 @@ While the color layer defines the festival's palette, white light serves to modu
 
 Core Functions:
 
--Spatial Dimension: Moving white beams create depth and simulate sunlight interacting with suspended particles (Gulal).
+Spatial Dimension: Moving white beams create depth and simulate sunlight interacting with suspended particles (Gulal).
 
--Tactical Asynchronicity (The "Holi Burst"): To maximize collective energy, the system utilizes high-intensity blinders triggered asynchronously.
+Tactical Asynchronicity (The "Holi Burst"): To maximize collective energy, the system utilizes high-intensity blinders triggered asynchronously.
 
--Dynamic Rhythm: Unlike constant strobe effects, the blinders fire for micro-second bursts ($t \approx 50\text{--}100\text{ ms}$) at irregular intervals of 1 to 6 seconds.
+Dynamic Rhythm: Unlike constant strobe effects, the blinders fire for micro-second bursts ($t \approx 50\text{--}100\text{ ms}$) at irregular intervals of 1 to 6 seconds.
 
--Visual Strategy: By avoiding predictable patterns, this "tactical blindness" prevents sensory adaptation. The resulting flashes break the rhythmic loop, creating a high-contrast shock that mirrors the sudden, chaotic joy of a traditional Holi explosion.
+Visual Strategy: By avoiding predictable patterns, this "tactical blindness" prevents sensory adaptation. The resulting flashes break the rhythmic loop, creating a high-contrast shock that mirrors the sudden, chaotic joy of a traditional Holi explosion.
 
--Technical Note:White remains a non-dominant atmosphere. By ensuring these bursts occur as an occasional "interruption" rather than a constant overlay, the saturated colors retain their visual authority, allowing the white energy to act as a percussive accent rather than a wash.
+Technical Note:White remains a non-dominant atmosphere. By ensuring these bursts occur as an occasional "interruption" rather than a constant overlay, the saturated colors retain their visual authority, allowing the white energy to act as a percussive accent rather than a wash.
 
 ---
 
