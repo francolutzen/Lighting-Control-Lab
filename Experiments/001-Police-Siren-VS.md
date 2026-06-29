@@ -34,8 +34,7 @@ The atmosphere is intended for musical moments where lyrics make direct or indir
 
 Reference Image
 
-<img width="1258" height="528" alt="Gemini_Generated_Image_aclb6raclb6raclb (1)" src="https://github.com/user-attachments/assets/ea11ddb6-1d65-40be-a49b-c58859b04352" />
-
+<img width="1935" height="812" alt="ChatGPT Image 29 jun 2026, 14_21_00" src="https://github.com/user-attachments/assets/fed71821-aaab-43a7-8994-022d6f390592" />
 
 Reference concepts include:
 
