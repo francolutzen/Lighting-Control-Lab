@@ -93,45 +93,42 @@ Crossing movements, sweeping patterns and alternating directions reinforce the r
 
 ---
 
-### Layer 3 — White Accent Layer
+### Layer 3 — Structural Flash Layer
 
-Short cold-white flashes are introduced selectively between major color transitions.
+Rather than acting as simple transition separators, short cold-white flashes become structural visual events that anticipate major transformations within the visual system.
 
-Rather than becoming a dominant color, white functions as a visual separator that briefly resets the viewer's perception before introducing the next primary color.
+Their purpose is not to dominate the composition, but to briefly overload the scene with visual energy immediately before moments of fragmentation and reconstruction.
 
-Example:
+During the decomposition sequence, rapid white flashes appear milliseconds before the projected Brazilian flag begins to fracture, creating the impression that internal pressure is building until the structure can no longer remain intact.
 
-```
-Green
+As the flag separates into geometric fragments, the flashes cease, allowing the surrounding green, yellow and blue lighting to inherit the visual energy released by the projection.
 
-↓
+During the restoration phase, the same flashes return shortly before reconstruction begins, suggesting that the dispersed fragments are once again accumulating energy.
 
-White Flash
+The final reconstruction culminates in a synchronized white impact that coincides with the complete reassembly of the flag, reinforcing the sensation of structural force and visual resolution.
 
-↓
-
-Yellow
-
-↓
-
-White Flash
-
-↓
-
-Blue
-```
-
-This approach increases contrast while reducing unwanted color blending during fast transitions.
+Rather than functioning as an independent lighting effect, the white flashes become narrative triggers that define the transition between stability, fragmentation and restoration.
 
 ---
 
-### Layer 4 — Atmospheric Volume
+### Layer 4 — Progressive Atmospheric Volume
 
-Atmospheric haze or fog transforms colored beams into volumetric elements.
+Atmospheric haze or fog serves as the volumetric medium that allows the entire visual system to occupy physical space.
 
-Instead of simply increasing beam visibility, suspended particles allow colors to occupy physical space, producing a more immersive interpretation of the Brazilian visual identity.
+Instead of maintaining constant output, the atmospheric density evolves together with the projection and lighting behaviors.
 
-As atmospheric density increases, the distinction between individual beams gradually dissolves into a cohesive environment of moving color.
+During calm sections, only a light atmospheric presence is required, preserving clarity and allowing the Brazilian colors to remain visually distinct.
+
+As the projected flag begins its geometric decomposition, the fog output gradually increases, giving the impression that the fragmentation releases energy into the surrounding environment.
+
+Each successive rupture introduces greater atmospheric density, causing the colored beams to become progressively more volumetric and immersive.
+
+By the climax of the decomposition sequence, the atmosphere reaches its highest density, partially dissolving the separation between individual beams and transforming the performance space into a unified environment of green, yellow and blue light.
+
+During the reconstruction phase, the atmospheric volume remains suspended while the geometric fragments converge toward the center, allowing the visual energy to linger in the environment even as the flag regains its original form.
+
+Rather than functioning solely as beam enhancement, the atmospheric layer becomes a dynamic visual element whose evolution mirrors the structural transformation of the projection itself, reinforcing the illusion that the flag is temporarily dissolving into light before reconstructing once again.
+
 
 ---
 
