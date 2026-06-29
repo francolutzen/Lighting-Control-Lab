@@ -1,5 +1,6 @@
 # Experiment 003 — Brazilian Flag Visual System
 
+## Implementation Status:
 ✓ DMX192
 ⬜ Personal Home Setup
 ⬜ QLC+
