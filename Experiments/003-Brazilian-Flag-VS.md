@@ -20,7 +20,7 @@ The experiment also explores how color hierarchy, movement and atmospheric depth
 
 ---
 
-## Inspiration
+## Conceptual Inspiration
 
 This experiment is inspired by the visual identity of the Brazilian flag and the energetic atmosphere commonly found in Brazilian festivals, football celebrations, carnival performances and urban music events.
 
