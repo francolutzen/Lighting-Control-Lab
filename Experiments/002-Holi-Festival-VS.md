@@ -27,7 +27,7 @@ Instead of recreating the event itself, this experiment translates its visual la
 
 Reference Image:
 
-<img width="1273" height="576" alt="Gemini_Generated_Image_c9sungc9sungc9su (1)" src="https://github.com/user-attachments/assets/27fddcc8-cdeb-4dd7-b9ce-643a8b8633cf" />
+<img width="1866" height="843" alt="ChatGPT Image 29 jun 2026, 09_34_52" src="https://github.com/user-attachments/assets/ddb09279-90d0-4bb2-8918-f8717257ff0e" />
 
 
 Reference concepts include:
