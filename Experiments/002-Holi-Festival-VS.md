@@ -63,30 +63,6 @@ Primary palette:
 
 Rather than following a predictable sequence around the color wheel, transitions intentionally jump between unexpected colors.
 
-Example:
-
-Yellow
-
-↓
-
-Magenta
-
-↓
-
-Cyan
-
-↓
-
-Orange
-
-↓
-
-Magenta
-
-↓
-
-Yellow
-
 Abrupt changes reinforce the spontaneous and chaotic nature of colored powders being thrown from multiple directions.
 
 ---
