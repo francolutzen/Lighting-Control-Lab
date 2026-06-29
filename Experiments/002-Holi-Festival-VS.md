@@ -1,5 +1,6 @@
 # Experiment 002 — Holi Festival Visual System
 
+## Implementation Status:
 ✓ DMX192
 ⬜ Personal Home Setup
 ⬜ QLC+
