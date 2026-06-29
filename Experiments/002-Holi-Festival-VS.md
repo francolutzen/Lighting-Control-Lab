@@ -69,18 +69,20 @@ Abrupt changes reinforce the spontaneous and chaotic nature of colored powders b
 
 ### Layer 2 — Dynamic White Energy
 
-Moving white beams act as a complementary visual layer.
+This layer employs a hybrid approach, combining sweeping white beams with high-intensity blinders to provide structural depth and visceral impact.
+While the color layer defines the festival's palette, white light serves to modulate spatial perception and pulse rhythm.
 
-Unlike the color layer, white is never intended to become the dominant atmosphere.
+Core Functions:
 
-Instead, it serves to:
+-Spatial Dimension: Moving white beams create depth and simulate sunlight interacting with suspended particles (Gulal).
 
-- create spatial depth
-- generate movement
-- increase visual rhythm
-- simulate sunlight interacting with suspended particles
+-Tactical Asynchronicity (The "Holi Burst"): To maximize collective energy, the system utilizes high-intensity blinders triggered asynchronously.
 
-Because white does not compete with the festival palette, the saturated colors remain visually dominant while the moving beams add dimensionality.
+-Dynamic Rhythm: Unlike constant strobe effects, the blinders fire for micro-second bursts ($t \approx 50\text{--}100\text{ ms}$) at irregular intervals of 3 to 6 seconds.
+
+-Visual Strategy: By avoiding predictable patterns, this "tactical blindness" prevents sensory adaptation. The resulting flashes break the rhythmic loop, creating a high-contrast shock that mirrors the sudden, chaotic joy of a traditional Holi explosion.
+
+-Technical Note:White remains a non-dominant atmosphere. By ensuring these bursts occur as an occasional "interruption" rather than a constant overlay, the saturated colors retain their visual authority, allowing the white energy to act as a percussive accent rather than a wash.
 
 ---
 
