@@ -95,7 +95,7 @@ Crossing movements, sweeping patterns and alternating directions reinforce the r
 
 ### Layer 3 — Structural Flash Layer
 
-Rather than acting as simple transition separators, short cold-white flashes become structural visual events that anticipate major transformations within the visual system.
+Instead of acting as simple transition separators, short cold-white flashes become structural visual events that anticipate major transformations within the visual system.
 
 Their purpose is not to dominate the composition, but to briefly overload the scene with visual energy immediately before moments of fragmentation and reconstruction.
 
