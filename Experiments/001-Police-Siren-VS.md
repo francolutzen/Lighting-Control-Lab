@@ -1,6 +1,7 @@
 # Experiment 001 — Police Siren Visual System
 
-Implementation Status: ✓ DMX192
+Implementation Status:
+✓ DMX192
 ⬜ Personal Home Setup
 ⬜ QLC+
 ⬜ MIDI Controller
