@@ -26,7 +26,7 @@ During Holi, participants throw brightly colored powders into the air, transform
 
 Instead of recreating the event itself, this experiment translates its visual language into a stage lighting concept.
 
-Reference Image:
+System Design Reference (Ideal State):
 
 <img width="1866" height="843" alt="ChatGPT Image 29 jun 2026, 09_34_52" src="https://github.com/user-attachments/assets/ddb09279-90d0-4bb2-8918-f8717257ff0e" />
 
