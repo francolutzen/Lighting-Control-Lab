@@ -149,7 +149,7 @@ Each color performs a distinct visual role.
 * Yellow establishes the overall atmosphere.
 * Green communicates vitality and celebration.
 * Blue provides contrast and spatial depth.
-* White separates visual phrases.
+* White separates visual phases.
 
 Assigning different functions to each color creates a more intentional composition than treating every color equally.
 
