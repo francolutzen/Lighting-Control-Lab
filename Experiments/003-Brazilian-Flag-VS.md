@@ -43,7 +43,33 @@ Reference concepts include:
 
 ## Design Concept
 
-The composition is built using four complementary visual layers.
+The composition is built using five complementary visual layers.
+
+### Layer 0 — Central Visual Identity (Future Projection Layer)
+
+This layer represents the conceptual core of the visual system.
+
+Although the current prototype is focused on lighting experimentation, future iterations may incorporate projection mapping to introduce a central visual element synchronized with the lighting behaviors.
+
+The projected Brazilian flag is not intended to function as a static background. Instead, it becomes an active visual component capable of interacting with the surrounding lighting system.
+
+During high-energy moments, the flag undergoes a controlled geometric decomposition.
+
+Rather than simply fading away, the image fragments into multiple geometric sections that gradually separate from the center while simultaneously decreasing in opacity.
+
+As the projection loses visual mass, the surrounding green, yellow and blue lighting progressively assumes visual dominance, creating the impression that the flag itself is transforming into light.
+
+This transfer of visual emphasis establishes a symbolic relationship between the projection and the surrounding atmosphere rather than treating them as independent visual elements.
+
+During the reconstruction phase, the fragmented pieces begin returning toward the center.
+
+Instead of moving smoothly, the fragments exhibit rapid micro-vibrations and irregular oscillations, simulating structural tension before reassembly.
+
+The sequence concludes with a sudden visual snap as the flag fully reconstructs into its original form.
+
+This moment is reinforced by synchronized short-duration white flashes that emphasize both the fragmentation and the final restoration, creating a strong visual accent synchronized with the surrounding lighting system.
+
+Although this projection layer is not currently implemented, it represents the intended long-term evolution of this visual system as projection mapping becomes integrated into the laboratory.
 
 ### Layer 1 — National Color Atmosphere
 
