@@ -30,17 +30,17 @@ The emphasis is placed on observation, iteration and learning through direct exp
 
 Most experiments follow a consistent lifecycle:
 
-*Conceptualization: Define a visual objective, hypothesis, or idea.
+* Conceptualization: Define a visual objective, hypothesis, or idea.
 
-*System Design: Develop a scalable lighting logic (layers, behaviors, and states) independent of specific hardware.
+* System Design: Develop a scalable lighting logic (layers, behaviors, and states) independent of specific hardware.
 
-*Proof of Concept (PoC): Implement the logic using available equipment to validate the concept's viability.
+* Proof of Concept (PoC): Implement the logic using available equipment to validate the concept's viability.
 
-*Documentation: Record observations, findings, and photographic evidence.
+* Documentation: Record observations, findings, and photographic evidence.
 
-*Iteration: Refine the programming based on real-world results.
+* Iteration: Refine the programming based on real-world results.
 
-##Scalable Methodology
+## Scalable Methodology
 
 Every experiment is designed as a scalable lighting framework.
 
