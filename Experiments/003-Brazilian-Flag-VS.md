@@ -347,9 +347,13 @@ A slower interpretation emphasizing warmth and emotional closure.
 
 ## Hypothesis
 
-Combining the Brazilian national color palette with layered movement, atmospheric depth and white transitional accents will produce a stronger perception of Brazilian cultural identity than using static color changes alone.
+Combining the Brazilian national color palette with layered movement, atmospheric depth, synchronized projection mapping and precisely timed white accent flashes will create a stronger perception of Brazilian cultural identity than using color transitions alone.
 
-The experiment also explores whether audiences instinctively associate this visual language with Brazilian music even without explicit references to the national flag.
+The experiment also explores whether transferring visual emphasis between a central projected symbol and the surrounding lighting system can increase immersion by making the entire stage behave as a single visual composition rather than a collection of independent effects.
+
+A second objective is to evaluate whether geometric fragmentation and reconstruction of the projected Brazilian flag, synchronized with short white flashes and progressive atmospheric density, reinforces the perception of energy, impact and transformation while preserving immediate recognition of the original symbol.
+
+Ultimately, this experiment investigates whether integrating symbolic imagery, volumetric lighting, movement and projection into a unified behavioral system produces a more memorable and emotionally engaging experience than conventional lighting-based interpretations.
 
 ---
 
