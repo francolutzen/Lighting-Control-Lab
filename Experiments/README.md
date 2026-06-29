@@ -51,7 +51,7 @@ Primary Controller: Most experiments are currently programmed and tested using a
 Evolution Path: As the laboratory evolves, these experiments are intended to be progressively recreated and refined using software-based control environments (e.g., QLC+, MIDI, and advanced DMX interfaces).
 
 Transparency: Some documents may initially feature hardware-controller setups while awaiting the integration of USB-DMX interfaces. This repository acts as a live record of this transition, documenting both the creative process and the technical expansion of the system over time.
-¡
+
 ## Examples of Experiments
 
 Examples may include:
